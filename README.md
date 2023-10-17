@@ -8,12 +8,12 @@
 
 ---
 
-### Studying programming at 42, developing a Master thesis in Software development for Image processing and Data protection and working as a Python Developer Junior in Data 💻
+### I work as a Python Developer Junior in Data 💻
 
 ---
 
 - 🔭 Currently studying software engineering at **<a href="https://www.42malaga.com/"> 42 Malaga</a>**
-- 🎓 Finishing a Master in Bioinformatics and Biostatistics at **<a href="https://campus.uoc.edu/"> University of Barcelona & UOC </a>**
+- 🎓 Developming the Thesis on Software development for Image processing and Data protection from the Bioinformatics and Biostatistics Master at **<a href="https://campus.uoc.edu/"> University of Barcelona & UOC </a>**
 - 👀 Interested in Artifitial Intelligence and Cybersecurity
 
 ## 🧑‍💻 Technical Skills
