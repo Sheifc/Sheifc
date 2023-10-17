@@ -53,7 +53,7 @@
     <td><a href="https://github.com/oakoudad/badge42"><img width="626" alt="notas" src="https://github.com/Sheifc/Sheifc/assets/115345487/bbd58baa-bd78-4136-ac27-2f42953a10df"></a></td>
   </tr>
    <tr>
-    <td><a href="https://github.com/oakoudad/badge42"><img width="815" alt="bootcamp" src="https://github.com/Sheifc/Sheifc/assets/115345487/a4c01e7c-34a4-4600-8d00-c4c9bf99f205">
+    <td><a href="https://github.com/oakoudad/badge42"><img width="515" alt="bootcamp" src="https://github.com/Sheifc/Sheifc/assets/115345487/a4c01e7c-34a4-4600-8d00-c4c9bf99f205">
    "></a></td>
   </tr>
 </table>
