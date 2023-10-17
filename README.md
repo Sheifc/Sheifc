@@ -14,8 +14,8 @@
 
 - 🔭 Currently studying programming at **<a href="https://www.42malaga.com/"> 42 Malaga</a>**
 - 👀 Interested in Python, AI and Cybersecurity
-- 🌱 Learning Python & C
-- 🎓 42 Malaga
+- 🎓 Studing software engineering at 42 Malaga
+- 🎓 Studing a Master in Bioinformatics and Biostatistics at University of Barcelona
 <br>
 ## 💻 Skills I'm Currently Acquiring
 
@@ -62,5 +62,11 @@
 <br>
 <p align="left">
 <a <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/greenbinary/sheferna?1337Badge=off&UM6P=off" alt="sheferna's 42 stats" /></a>
+</p>
+<br>
+
+<br>
+<p align="left">
+<a <a href="https://github.com/oakoudad/badge42"><img width="726" alt="notas" src="https://github.com/Sheifc/Sheifc/assets/115345487/bbd58baa-bd78-4136-ac27-2f42953a10df" alt="sheferna's 42 stats" /></a>
 </p>
 <br>
