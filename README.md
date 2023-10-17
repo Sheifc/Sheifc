@@ -52,6 +52,10 @@
     <td>Bioinformatics and Biostatistics Master</td>
     <td><a href="https://github.com/oakoudad/badge42"><img width="626" alt="notas" src="https://github.com/Sheifc/Sheifc/assets/115345487/bbd58baa-bd78-4136-ac27-2f42953a10df"></a></td>
   </tr>
+   <tr>
+    <td>Data Science Bootcamp</td>
+    <td><a href="https://github.com/oakoudad/badge42"><img width="626" alt="notas" src="[Diploma_curso.pdf](https://github.com/Sheifc/Sheifc/files/12965126/Diploma_curso.pdf)"></a></td>
+  </tr>
 </table>
 
 ## ➡️ Contact me on: 
