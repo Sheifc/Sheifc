@@ -22,12 +22,12 @@
 <br>
 ## 💻 Skills I'm Currently Acquiring
 
-[![My Skills](https://skillicons.dev/icons?i=python,c,java,cpp,bash,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,c,css,html,bash,linux)](https://skillicons.dev)
 
 
-> :desktop_computer:  Languages - Python | C | CPP | Java
+> :desktop_computer:  Languages - Python | C 
 
-> :fire: OS - MacOS | ParrotOS | W11
+> :fire: OS - MacOS | W11
   
 > :framed_picture:  Cybersecurity -  Bash | Linux
 <br>
@@ -40,7 +40,7 @@
 
 > :hammer_and_wrench:  Tools -  Git | GitHub 
 
-> :atom:  IDEs -  Clion | Vim | Visual Studio Code
+> :atom:  IDEs -   Vim | Visual Studio Code | Pycharm
 
 <br>
 
