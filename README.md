@@ -19,13 +19,13 @@
 
 ## 🧑‍💻 Technical Skills
 
-![My Skills](https://skillicons.dev/icons?i=c,bash,vim,vscode,git,html,css,github,python)
+![My Skills](https://skillicons.dev/icons?i=c,bash,python,r,rstudio,vim,vscode,git,html,css,github)
 
-> :desktop_computer:  Languages - C | Python | Bash | HTML | CSS 
+> :desktop_computer:  Languages - Bash | R | C | Python | HTML | CSS
 
 > :hammer_and_wrench:  Tools -  Git | GitHub 
 
-> :atom:  IDEs -   Vim | Visual Studio Code | Pycharm
+> :atom:  IDEs -   Vim | RStudio | Visual Studio Code | Pycharm
 
 > :desktop_computer: OS - MacOS | W11
 
@@ -36,7 +36,7 @@
 ## 💾 Projects at 42 Malaga
 |	Name												|	Description										|
 |-------------------------------------------------------|---------------------------------------------------|
-|	[Libft](https://github.com/Sheifc/Libft-42cursus-My-first-library-in-C) |  First project: My first library |
+|	[Libft](https://github.com/Sheifc/Libft-42cursus-My-first-library-in-C) |  First project: My first library | 
 
 <br>
 
