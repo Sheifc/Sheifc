@@ -16,22 +16,8 @@
 - 👀 Interested in Python, AI and Cybersecurity
 - 🎓 Studing software engineering at 42 Malaga
 - 🎓 Studing a Master in Bioinformatics and Biostatistics at University of Barcelona
-<br>
-## 💻 Skills I'm Currently Acquiring
 
-[![My Skills](https://skillicons.dev/icons?i=python,c,css,html,bash,linux)](https://skillicons.dev)
-
-
-> :desktop_computer:  Languages - Python | C 
-
-> :fire: OS - MacOS | W11
-  
-> :framed_picture:  Cybersecurity
-
-> :atom: Artifitial Intelligence
-<br>
-
-## 🧑‍💻 My Current Technical Skills
+## 🧑‍💻 Technical Skills
 
 ![My Skills](https://skillicons.dev/icons?i=c,bash,vim,vscode,git,html,css,github,python)
 
@@ -41,20 +27,18 @@
 
 > :atom:  IDEs -   Vim | Visual Studio Code | Pycharm
 
+> :desktop_computer: OS - MacOS | W11
+
 <br>
 
-## 💾 Projects
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sheifc&layout=compact&theme=dark&hide_border=true)
+
+## 💾 Projects at 42 Malaga
 |	Name												|	Description										|
 |-------------------------------------------------------|---------------------------------------------------|
 |	[Libft](https://github.com/Sheifc/Libft-42cursus-My-first-library-in-C) |  First project at 42malaga |
 
 <br>
-
-## ➡️ Contact me on: 
-![LinkedIn](https://img.shields.io/static/v1?label=&message=LinkedIn&color=0e76a8&logo=linkedin&logoColor=white&style=for-the-badge)
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sheifc&layout=compact&theme=dark&hide_border=true)
 
 <br>
 
@@ -70,3 +54,8 @@
     <td><a href="https://github.com/oakoudad/badge42"><img width="626" alt="notas" src="https://github.com/Sheifc/Sheifc/assets/115345487/bbd58baa-bd78-4136-ac27-2f42953a10df"></a></td>
   </tr>
 </table>
+
+## ➡️ Contact me on: 
+![LinkedIn](https://img.shields.io/static/v1?label=&message=LinkedIn&color=0e76a8&logo=linkedin&logoColor=white&style=for-the-badge)
+
+
