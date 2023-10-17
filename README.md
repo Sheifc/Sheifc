@@ -1,4 +1,4 @@
-<p align="center"><img width=15%" src="" alt="Hello all" /></p>
+<p align="center"><img width=15%" src="" alt="" /></p>
 
 # Hi there 👋 it's Sheila 🤗
  <p>
