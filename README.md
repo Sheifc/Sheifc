@@ -19,7 +19,7 @@
 
 ## 🧑‍💻 Technical Skills
 
-![My Skills](https://skillicons.dev/icons?i=c,bash,python,r,rstudio,vim,vscode,git,html,css,github)
+![My Skills](https://skillicons.dev/icons?i=c,bash,python,r,vim,vscode,git,html,css,github)
 
 > :desktop_computer:  Languages - Bash | R | C | Python | HTML | CSS
 
@@ -27,7 +27,7 @@
 
 > :atom:  IDEs -   Vim | RStudio | Visual Studio Code | Pycharm
 
-> :desktop_computer: OS - MacOS | W11
+> :desktop_computer: OS - MacOS | W11 | Linux
 
 <br>
 
