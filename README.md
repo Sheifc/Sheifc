@@ -53,8 +53,8 @@
     <td><a href="https://github.com/oakoudad/badge42"><img width="626" alt="notas" src="https://github.com/Sheifc/Sheifc/assets/115345487/bbd58baa-bd78-4136-ac27-2f42953a10df"></a></td>
   </tr>
    <tr>
-    <td>Data Science Bootcamp</td>
-    <td><a href="https://github.com/oakoudad/badge42"><img width="626" alt="notas" src="[Diploma_curso.pdf](https://github.com/Sheifc/Sheifc/files/12965126/Diploma_curso.pdf)"></a></td>
+    <td><a href="https://github.com/oakoudad/badge42"><img width="1115" alt="bootcamp" src="https://github.com/Sheifc/Sheifc/assets/115345487/a4c01e7c-34a4-4600-8d00-c4c9bf99f205">
+   "></a></td>
   </tr>
 </table>
 
