@@ -54,7 +54,7 @@
   </tr>
    <tr>
     <td>Data Bootcamp</td>
-    <td><a href="https://github.com/oakoudad/badge42"><img width="615" alt="bootcamp" src="https://github.com/Sheifc/Sheifc/assets/115345487/a4c01e7c-34a4-4600-8d00-c4c9bf99f205"></a></td>
+    <td><a href="[https://github.com/oakoudad/badge42](https://codespaceacademy.com/curso/work-camp-data-science/)"></a></td>
   </tr>
 </table>
 
