@@ -62,11 +62,6 @@
 <br>
 <p align="left">
 <a <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/greenbinary/sheferna?1337Badge=off&UM6P=off" alt="sheferna's 42 stats" /></a>
-</p>
-<br>
-
-<br>
-<p align="left">
-<a <a href="https://github.com/oakoudad/badge42"><img width="526" alt="notas" src="https://github.com/Sheifc/Sheifc/assets/115345487/bbd58baa-bd78-4136-ac27-2f42953a10df" alt="sheferna's 42 stats" /></a>
+<a href="https://github.com/oakoudad/badge42"><img width="626" alt="notas" src="https://github.com/Sheifc/Sheifc/assets/115345487/bbd58baa-bd78-4136-ac27-2f42953a10df" alt="sheferna's 42 stats" /></a>
 </p>
 <br>
