@@ -2,7 +2,7 @@
 
 # Hi there 👋 it's Sheila 🤗
  <p>
-        <img src="ttps://img.shields.io/badge/Nat-🇪🇸-%23aaaaaa.svg?style=flat" alt="Native language"/>
+        <img src="https://img.shields.io/badge/Nat-🇪🇸-%23aaaaaa.svg?style=flat" alt="Native language"/>
         <img src="https://img.shields.io/badge/C1-🇬🇧-%23aaaaaa.svg?style=flat" alt="Second language"/>
    </p>
 
@@ -28,7 +28,7 @@
   
 > :framed_picture:  Cybersecurity
 
-> :framed_picture: Artifitial Intelligence
+> :atom: Artifitial Intelligence
 <br>
 
 ## 🧑‍💻 My Current Technical Skills
