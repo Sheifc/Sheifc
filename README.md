@@ -8,7 +8,7 @@
 
 ---
 
-### I’m studying programming at 42 and working as a Python Developer Junior in Data 💻
+### I’m studying programming at 42, developing a Master thesis in Software development for Image processing and Data protection and working as a Python Developer Junior in Data 💻
 
 ---
 
