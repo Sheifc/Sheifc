@@ -67,6 +67,6 @@
 
 <br>
 <p align="left">
-<a <a href="https://github.com/oakoudad/badge42"><img width="726" alt="notas" src="https://github.com/Sheifc/Sheifc/assets/115345487/bbd58baa-bd78-4136-ac27-2f42953a10df" alt="sheferna's 42 stats" /></a>
+<a <a href="https://github.com/oakoudad/badge42"><img width="526" alt="notas" src="https://github.com/Sheifc/Sheifc/assets/115345487/bbd58baa-bd78-4136-ac27-2f42953a10df" alt="sheferna's 42 stats" /></a>
 </p>
 <br>
