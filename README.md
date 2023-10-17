@@ -13,7 +13,7 @@
 ---
 
 - 🔭 Currently studying software engineering at **<a href="https://www.42malaga.com/"> 42 Malaga</a>**
-- 🎓 Finishing a Master in Bioinformatics and Biostatistics at **<a href="https://campus.uoc.edu/"> University of Barcelona </a>**
+- 🎓 Finishing a Master in Bioinformatics and Biostatistics at **<a href="https://campus.uoc.edu/"> University of Barcelona & UOC </a>**
 - 👀 Interested in Artifitial Intelligence and Cybersecurity
 
 ## 🧑‍💻 Technical Skills
