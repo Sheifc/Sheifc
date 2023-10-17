@@ -12,10 +12,9 @@
 
 ---
 
-- 🔭 Currently studying programming at **<a href="https://www.42malaga.com/"> 42 Malaga</a>**
-- 👀 Interested in Python, AI and Cybersecurity
-- 🎓 Studing software engineering at 42 Malaga
+- 🔭 Currently studying software engineering at **<a href="https://www.42malaga.com/"> 42 Malaga</a>**
 - 🎓 Studing a Master in Bioinformatics and Biostatistics at University of Barcelona
+- 👀 Interested in Artifitial Intelligence and Cybersecurity
 
 ## 🧑‍💻 Technical Skills
 
