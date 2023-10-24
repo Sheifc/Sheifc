@@ -37,7 +37,7 @@
 ## 💾 Projects at 42 Malaga
 |	Name												|	Description										|
 |-------------------------------------------------------|---------------------------------------------------|
-|	[Libft](https://github.com/Sheifc/Libft-42cursus-My-first-library-in-C) |  First project: My first library | 
+|	[Libft](https://github.com/Sheifc/42cursus/tree/main/libft) |  First project: My first library | 
 
 <br>
 
