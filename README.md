@@ -8,7 +8,7 @@
 
 ---
 
-### I work as a Python Developer Junior in Data 💻
+### I work as a Python Developer in Data 💻
 
 ---
 
