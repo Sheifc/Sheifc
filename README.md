@@ -59,7 +59,7 @@
   </tr>
    <tr>
     <td>Data Bootcamp</td>
-    <td><img width="626" alt="diploma" src="https://github.com/Sheifc/Sheifc/assets/115345487/3a7033f7-3964-445a-8ecd-6746f386a180"></a></td>
+    <td>[Codespace](https://codespaceacademy.com/curso/work-camp-data-science/)</td>
   </tr>
 </table>
 
