@@ -1,10 +1,10 @@
 <p align="center"><img width=15%" src="" alt="" /></p>
 
 # Hi there 👋 it's Sheila 🤗
- <p>
+ <p align="center">
         <img src="https://img.shields.io/badge/Nat-🇪🇸-%23aaaaaa.svg?style=flat" alt="Native language"/>
         <img src="https://img.shields.io/badge/C1-🇬🇧-%23aaaaaa.svg?style=flat" alt="Second language"/>
-   </p>
+</p>
 
 ---
 
@@ -19,8 +19,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sheifc&layout=compact&theme=dark&hide_border=true" />
 </p>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sheifc&layout=compact&theme=dark&hide_border=true)
 
 
 ## 🧑‍💻 Technical Skills
