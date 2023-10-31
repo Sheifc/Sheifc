@@ -59,7 +59,7 @@
   </tr>
    <tr>
     <td>Data Bootcamp</td>
-    <td><a href="https://codespaceacademy.com/curso/work-camp-data-science/"></a></td>
+    <td><img width="626" alt="diploma" src="https://github.com/Sheifc/Sheifc/files/13214839/Diploma_curso.pdf"></a></td>
   </tr>
 </table>
 
