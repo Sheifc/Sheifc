@@ -16,6 +16,9 @@
 - 🎓 Developing a Thesis in Software development for Image processing and Data protection from the Bioinformatics and Biostatistics Master at **<a href="https://campus.uoc.edu/"> University of Barcelona & UOC </a>**
 - 👀 Interested in Artifitial Intelligence and Cybersecurity
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sheifc&layout=compact&theme=dark&hide_border=true" />
+</p>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sheifc&layout=compact&theme=dark&hide_border=true)
 
