@@ -55,13 +55,14 @@
   </tr>
   <tr>
     <td>Bioinformatics and Biostatistics Master</td>
-    <td><a href="https://github.com/oakoudad/badge42"><img width="626" alt="notas" src="https://github.com/Sheifc/Sheifc/assets/115345487/bbd58baa-bd78-4136-ac27-2f42953a10df"></a></td>
+    <td><img width="626" alt="notas" src="https://github.com/Sheifc/Sheifc/assets/115345487/bbd58baa-bd78-4136-ac27-2f42953a10df"></a></td>
   </tr>
    <tr>
     <td>Data Bootcamp</td>
-    <td><a href="[https://github.com/oakoudad/badge42](https://codespaceacademy.com/curso/work-camp-data-science/)"></a></td>
+    <td><a href="https://codespaceacademy.com/curso/work-camp-data-science/"></a></td>
   </tr>
 </table>
+
 
 ## ➡️ Contact me on: 
 [LinkedIn](https://www.linkedin.com/in/sheifc/)
