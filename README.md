@@ -59,7 +59,7 @@
   </tr>
    <tr>
     <td>Data Bootcamp</td>
-    <td>[Codespace](https://codespaceacademy.com/curso/work-camp-data-science/)</td>
+    <td>https://codespaceacademy.com/curso/work-camp-data-science/</td>
   </tr>
 </table>
 
