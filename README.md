@@ -63,6 +63,6 @@
 </table>
 
 ## ➡️ Contact me on: 
-<tr><td><a href="https://linkedin.com" target="_blank" class="icon"><i class=bi bi-linkedin"></i></a></td></tr>
+<tr><td><a href="(https://www.linkedin.com/in/sheifc/)"><button class="boton">Linkedin</button>button></a></td></tr>
 
 
