@@ -63,6 +63,6 @@
 </table>
 
 ## ➡️ Contact me on: 
-![LinkedIn](https://img.shields.io/static/v1?label=&message=LinkedIn&color=0e76a8&logo=linkedin&logoColor=white&style=for-the-badge)
+![LinkedIn](https://img.shields.io/static/v1?label=&message=LinkedIn&color=0e76a8&logo=linkedin&logoColor=white&style=for-the-badge)</a>href="https://www.linkedin.com/in/sheifc/"</td>
 
 
