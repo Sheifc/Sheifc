@@ -8,7 +8,7 @@
 
 ---
 
-### I work as a Python Developer in Data and DevOps 💻
+### I work as a Data Scientist / Python Developer in Data and DevOps 💻
 
 ---
 
