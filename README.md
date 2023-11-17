@@ -41,7 +41,7 @@
 |	Name                                               |	Description                                    |
 |:--------------------------------------------------:|:----------------------------------------------:|
 |	[Libft](https://github.com/Sheifc/42cursus/tree/main/libft) |  First project: My first library      |
-| https://github.com/Sheifc/42cursus/tree/main/printf | Second project: printf implementation         |
+| [Printf](https://github.com/Sheifc/42cursus/tree/main/printf) | Second project: printf implementation |
 
 <br>
 
