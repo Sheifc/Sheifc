@@ -55,7 +55,7 @@
     <th><a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/greenbinary/sheferna?1337Badge=off&UM6P=off" alt="sheferna's 42 stats" /></a></th>
   </tr>
   <tr>
-    <td>Bioinformatics and Biostatistics Master</td>
+    <td>Bioinformatics and Biostatistics Master<br><a href="https://github.com/Sheifc/Bioinformatics-and-Biostatistic-Master">Machine Learning<br></td>
     <td><img width="626" alt="notas" src="https://github.com/Sheifc/Sheifc/assets/115345487/bbd58baa-bd78-4136-ac27-2f42953a10df"></a></td>
   </tr>
    <tr>
