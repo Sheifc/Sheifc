@@ -51,7 +51,7 @@
 
 <table style="width:100%">
   <tr>
-    <th>42 Programming School<br><a href="https://github.com/Sheifc/42cursus">42cursus</a><br><a href="https://github.com/Sheifc/42-C-piscine">42C-piscine</a></th>
+    <th>42 Programming School<br><a href="https://github.com/Sheifc/42cursus">42cursus</a><br><a href="https://github.com/Sheifc/42-C-piscine">42C-piscine</a><br><a href="https://github.com/Sheifc/Shell-42-C-piscine">42Shell</a><br></th>
     <th><a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/greenbinary/sheferna?1337Badge=off&UM6P=off" alt="sheferna's 42 stats" /></a></th>
   </tr>
   <tr>
