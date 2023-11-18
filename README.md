@@ -51,8 +51,8 @@
 
 <table style="width:100%">
   <tr>
-    <th>42 Programming School<a[42cursus](https://github.com/Sheifc/42cursus)></th>
-    <th><a> href="https://github.com/oakoudad/badge42"</a><img src="https://badge.mediaplus.ma/greenbinary/sheferna?1337Badge=off&UM6P=off" alt="sheferna's 42 stats" /></a></th>
+    <th>42 Programming School <a href="https://github.com/Sheifc/42cursus">42cursus</a></th>
+    <th><a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/greenbinary/sheferna?1337Badge=off&UM6P=off" alt="sheferna's 42 stats" /></a></th>
   </tr>
   <tr>
     <td>Bioinformatics and Biostatistics Master</td>
