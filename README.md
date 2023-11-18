@@ -37,7 +37,7 @@
 
 <br>
 
-## 💾 Projects at 42 Malaga
+## 💾 👩‍💻 Projects at 42 Malaga
 |	Name                                               |	Description                                    |
 |:--------------------------------------------------:|:----------------------------------------------:|
 |	[Libft](https://github.com/Sheifc/42cursus/tree/main/libft) |  First project: My first library      |
