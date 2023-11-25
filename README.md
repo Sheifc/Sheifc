@@ -4,6 +4,7 @@
  <p align="center">
         <img src="https://img.shields.io/badge/Nat-🇪🇸-%23aaaaaa.svg?style=flat" alt="Native language"/>
         <img src="https://img.shields.io/badge/C1-🇬🇧-%23aaaaaa.svg?style=flat" alt="Second language"/>
+        <img src="https://komarev.com/ghpvc/?username=Sheifc&style=flat&color=blue"></a>
 </p>
 
 ---
