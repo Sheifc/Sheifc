@@ -40,7 +40,7 @@ Common core Levels: 0-6
 <br>
 
 ## 👩‍💻 Common Core Projects at 42 Malaga
-|	Name                                               |	Description                                    | Level | Qualification |
+|	Name                                               |	Description                                    | Level | Qualifications |
 |:--------------------------------------------------:|:----------------------------------------------:|:-----:|:-------------:|
 |	[Libft](https://github.com/Sheifc/42cursus/tree/main/libft) |  My first library of 43 functions in C      | 0 | 125/100 Bonus |
 | [Printf](https://github.com/Sheifc/42cursus/tree/main/printf) | printf function implementation in C | 1 | 100/100 no Bonus |
