@@ -40,11 +40,11 @@ Common core Levels: 0-6
 <br>
 
 ## 👩‍💻 Common Core Projects at 42 Malaga
-|	Name                                               |	Description                                    |
-|:--------------------------------------------------:|:----------------------------------------------:|
-|	[Libft](https://github.com/Sheifc/42cursus/tree/main/libft) |  First project: My first library      |
-| [Printf](https://github.com/Sheifc/42cursus/tree/main/printf) | Second project: printf implementation |
-| [Born2beroot](https://github.com/Sheifc/42cursus/tree/main/Born2beroot) | 4th project: Admin System |
+|	Name                                               |	Description                                    | Level | Qualification |
+|:--------------------------------------------------:|:----------------------------------------------:|:-----:|:-------------:|
+|	[Libft](https://github.com/Sheifc/42cursus/tree/main/libft) |  First project: My first library      | 0 | 125/100 with Bonus |
+| [Printf](https://github.com/Sheifc/42cursus/tree/main/printf) | Second project: printf implementation | 1 | 100/100 no Bonus |
+| [Born2beroot](https://github.com/Sheifc/42cursus/tree/main/Born2beroot) | 4th project: Admin System | 1 | 120/100 with Bonus |
 
 <br>
 
