@@ -29,7 +29,7 @@ Common core Levels: 0-6
 
 > :desktop_computer:  Languages - Bash | R | C | Python | Markdown | HTML | CSS | HCL
 
-> 📚 Python libraries for DS and ML - NumPy | Pandas | Matplotlib | Seaborn | cv2 | os | Tensorflow - keras | sklearn
+> 📚 Python libraries for DS and ML - NumPy | Pandas | Matplotlib | Seaborn | cv2 | os | Tensorflow - keras | sklearn | sequence-transformers
 
 > :hammer_and_wrench:  Tools -  Git | GitHub | Docker | Terraform | Jira | Bitbucket
 
