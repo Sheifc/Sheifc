@@ -42,13 +42,13 @@ Common core Levels: 0-6
 ## 👩‍💻 Common Core Projects at 42 Malaga
 |	Name                                               |	Description                                    | Level | Qualification |
 |:--------------------------------------------------:|:----------------------------------------------:|:-----:|:-------------:|
-|	[Libft](https://github.com/Sheifc/42cursus/tree/main/libft) |  First project: My first library      | 0 | 125/100 Bonus |
-| [Printf](https://github.com/Sheifc/42cursus/tree/main/printf) | Second project: printf implementation | 1 | 100/100 no Bonus |
-| Get next line | 3rd project: Memory management | 1 | 125/100 Bonus |
-| [Born2beroot](https://github.com/Sheifc/42cursus/tree/main/Born2beroot) | 4th project: Admin System | 1 | 120/100 Bonus |
-| Push Swap | 5th project: Sort algorithm development | 2 | Ongoing |
-| So long | 6th project | 2D game development | 2 | Ongoing | 
-| Pipex | 7th project: Pipelines development Unix | 2 | Ongoing | 
+|	[Libft](https://github.com/Sheifc/42cursus/tree/main/libft) |  My first library of 43 functions in C      | 0 | 125/100 Bonus |
+| [Printf](https://github.com/Sheifc/42cursus/tree/main/printf) | printf function implementation in C | 1 | 100/100 no Bonus |
+| Get next line | Memory management in C | 1 | 125/100 Bonus |
+| [Born2beroot](https://github.com/Sheifc/42cursus/tree/main/Born2beroot) | Admin System | 1 | 120/100 Bonus |
+| Push Swap | Sort algorithm development | 2 | Ongoing |
+| So long | 2D game development | 2 | Ongoing | 
+| Pipex | Pipelines development Unix | 2 | Ongoing | 
 | Exam Rank 2 | 57 Functions in C | 0 - 2 | Ongoing | 
 <br>
 
