@@ -44,9 +44,9 @@ Common core Levels: 0-6
 |:--------------------------------------------------:|:----------------------------------------------:|:-----:|:-------------:|
 |	[Libft](https://github.com/Sheifc/42cursus/tree/main/libft) |  My first library of 43 functions in C      | 0 | 125/100 Bonus |
 | [Printf](https://github.com/Sheifc/42cursus/tree/main/printf) | printf function development in C | 1 | 100/100 no Bonus |
-| Get next line | Memory management in C | 1 | 125/100 Bonus |
+| Get next line | Memory management with arrays in C | 1 | 125/100 Bonus |
 | [Born2beroot](https://github.com/Sheifc/42cursus/tree/main/Born2beroot) | Admin System | 1 | 120/100 Bonus |
-| Push Swap | Sort algorithm development | 2 | Ongoing |
+| Push Swap | Sort algorithm development with lists in C | 2 | Ongoing |
 | So long | 2D game development | 2 | Ongoing | 
 | Pipex | Pipelines development - Unix | 2 | Ongoing | 
 | Exam - Rank 2 | 57 Functions in C | 0 - 2 | Ongoing | 
