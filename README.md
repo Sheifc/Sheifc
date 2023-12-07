@@ -48,7 +48,7 @@ Common core Levels: 0-6
 | [Born2beroot](https://github.com/Sheifc/42cursus/tree/main/Born2beroot) | Admin System | 1 | 120/100 Bonus |
 | Push Swap | Sort algorithm development | 2 | Ongoing |
 | So long | 2D game development | 2 | Ongoing | 
-| Pipex | Pipelines development Unix | 2 | Ongoing | 
+| Pipex | Pipelines development - Unix | 2 | Ongoing | 
 | Exam Rank 2 | 57 Functions in C | 0 - 2 | Ongoing | 
 <br>
 
