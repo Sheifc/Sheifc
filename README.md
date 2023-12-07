@@ -44,7 +44,7 @@ Common core Levels: 0-6
 |:--------------------------------------------------:|:----------------------------------------------:|
 |	[Libft](https://github.com/Sheifc/42cursus/tree/main/libft) |  First project: My first library      |
 | [Printf](https://github.com/Sheifc/42cursus/tree/main/printf) | Second project: printf implementation |
-| [Born2beroot] (https://github.com/Sheifc/42cursus/tree/main/Born2beroot) | 4th project: Vitual Machine configuration |
+| [Born2beroot](https://github.com/Sheifc/42cursus/tree/main/Born2beroot) | 4th project: Vitual Machine configuration |
 
 <br>
 
