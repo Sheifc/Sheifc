@@ -49,7 +49,7 @@ Common core Levels: 0-6
 | Push Swap | Sort algorithm development with lists in C | 2 | Ongoing |
 | So long | 2D game development | 2 | Ongoing | 
 | Pipex | Pipelines development - Unix | 2 | Ongoing | 
-| Exam - Rank 2 | 57 Functions & Programs in C | 0 - 2 | Ongoing | 
+| [Exam - Rank 2](https://github.com/Sheifc/Rank2_Exam/tree/main) | 57 Functions & Programs in C | 0 - 2 | Ongoing | 
 <br>
 
 <br>
