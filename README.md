@@ -13,7 +13,7 @@
 
 ---
 
-- 🔭 Currently studying software engineering at **<a href="https://www.42malaga.com/"> 42 Malaga campus</a>**
+- 🔭 Currently studying software engineering at **<a href="https://www.42malaga.com/"> 42 Malaga campus sponsord by Telefónica Foundation </a>**
 Common core Levels: 0-6
 - Google Professional Certificates:
      - IT Automation with Python (6 courses: `Crash Course on Python`, `Using Python to Interact with the Operating System`, `Git and GitHub`, `Troubleshooting and Debugging Techniques`, `Configuration Management and the Cloud` and `Automating Real-World Tasks with Python`)
