@@ -45,8 +45,8 @@
     <td>https://codespaceacademy.com/curso/work-camp-data-science/</td>
   </tr>
   <tr>
-    <td>Google Professional Certificate: `IT Automation with Python`</td>
-    <td>6 courses: **Crash Course on Python**, **Using Python to Interact with the Operating System**, **Git and GitHub**, **Troubleshooting and Debugging Techniques**, **Configuration Management and the Cloud** and **Automating Real-World Tasks with Python**</td>
+    <td>Google Professional Certificate: IT Automation with Python</td>
+    <td>6 courses: Crash Course on Python, Using Python to Interact with the Operating System, Git and GitHub, Troubleshooting and Debugging Techniques, Configuration Management and the Cloud and Automating Real-World Tasks with Python</td>
    </tr>
    <tr>
     <td>Google Professional Certificate:`IT support`</td> 
