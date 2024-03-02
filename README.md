@@ -33,6 +33,7 @@
 <br>
 
 <h2>Studies</h2>
+
 ## 👩‍💻 Common Core Projects at 42 Malaga: [cursus summary](https://github.com/Sheifc/42cursus/tree/main)
 |	Name                                               |	Description                                    | Level | Qualifications |
 |:--------------------------------------------------:|:----------------------------------------------:|:-----:|:-------------:|
@@ -44,6 +45,7 @@
 | So long | 2D game development | 2 | Ongoing | 
 | Pipex | Pipelines development - Unix | 2 | Ongoing | 
 | [Exam - Rank 2](https://github.com/Sheifc/Rank2_Exam/tree/main) | 57 Functions & Programs in C | 0 - 2 | 100/100 | 
+
 <br>
 <table style="width:100%">
   <tr>
