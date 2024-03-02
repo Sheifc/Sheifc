@@ -17,17 +17,20 @@
 - 🔬 Had worked a decade as a clinical embryologist in several Hopitals from different countries where I introduced machine learning algorithms and technology. 
 - 🎓 Developed a Thesis about `DICOM Image anonymisation and Data protection` as part of the Bioinformatics and Biostatistics Master at **<a href="https://campus.uoc.edu/"> University of Barcelona & UOC </a>**
 - 👀 Interested in Artifitial Intelligence and Cybersecurity to protect data. 
-
 <br>
-<table>
-  <tr>
-    <th>
-      <a href="https://github.com/oakoudad/badge42">
-        <p align="center"><img src="https://badge.mediaplus.ma/greenbinary/sheferna?1337Badge=off&UM6P=off" alt="sheferna's 42 stats" />
-      </a>
-    </th>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sheifc&layout=compact&theme=dark&hide_border=true" />
+</p>
+<br>
+## :fire: Technical Skills
+
+![My Skills](https://skillicons.dev/icons?i=c,bash,python,r,vim,vscode,git,html,css,github)
+> :desktop_computer:  Languages - Bash | R | C | Python | Markdown | HTML | CSS | HCL  
+> 📚 Python libraries for DS and ML - NumPy | Pandas | Matplotlib | Seaborn | cv2 | os | Tensorflow - keras | sklearn | Transformers  
+> :hammer_and_wrench:  Tools -  Git | GitHub | Docker | Terraform | Jira | Bitbucket  
+> :atom:  IDEs -   Vim | RStudio | Visual Studio Code | Pycharm  
+> :desktop_computer: OS - MacOS | Debian | Ubuntu  
+<br>
 
 <h2>Studies</h2>
 
@@ -68,19 +71,7 @@
 | Pipex | Pipelines development - Unix | 2 | Ongoing | 
 | [Exam - Rank 2](https://github.com/Sheifc/Rank2_Exam/tree/main) | 57 Functions & Programs in C | 0 - 2 | Ongoing | 
 <br>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sheifc&layout=compact&theme=dark&hide_border=true" />
-</p>
-<br>
-## :fire: Technical Skills
 
-![My Skills](https://skillicons.dev/icons?i=c,bash,python,r,vim,vscode,git,html,css,github)
-> :desktop_computer:  Languages - Bash | R | C | Python | Markdown | HTML | CSS | HCL  
-> 📚 Python libraries for DS and ML - NumPy | Pandas | Matplotlib | Seaborn | cv2 | os | Tensorflow - keras | sklearn | Transformers  
-> :hammer_and_wrench:  Tools -  Git | GitHub | Docker | Terraform | Jira | Bitbucket  
-> :atom:  IDEs -   Vim | RStudio | Visual Studio Code | Pycharm  
-> :desktop_computer: OS - MacOS | Debian | Ubuntu  
-<br>
 ## ➡️ Contact me on: 
 [LinkedIn](https://www.linkedin.com/in/sheifc/)
 
