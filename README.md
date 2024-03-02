@@ -14,8 +14,8 @@
 ---
 
 - 🔭 Currently studying software engineering at **<a href="https://www.42malaga.com/"> 42 Malaga campus</a>**
-Common core Levels: 0-6
-- 🎓 Developing a Thesis in Software development for Image processing and Data protection as part of the Bioinformatics and Biostatistics Master at **<a href="https://campus.uoc.edu/"> University of Barcelona & UOC </a>**
+Common core Levels: 0-6 -> Currently at Level 2
+- 🎓 Developed a Thesis in Software development for Image processing and Data protection as part of the Bioinformatics and Biostatistics Master at **<a href="https://campus.uoc.edu/"> University of Barcelona & UOC </a>**
 - 👀 Interested in Artifitial Intelligence and Cybersecurity
 
 <p align="center">
