@@ -19,6 +19,7 @@
 - 👀 Interested in Artifitial Intelligence and Cybersecurity to protect data. 
 
 <br>
+<th><a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/greenbinary/sheferna?1337Badge=off&UM6P=off" alt="sheferna's 42 stats" /></a></th>
 
 <h2>Studies</h2>
 
