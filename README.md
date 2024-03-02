@@ -71,6 +71,8 @@
 | Pipex | Pipelines development - Unix | 2 | Ongoing | 
 | [Exam - Rank 2](https://github.com/Sheifc/Rank2_Exam/tree/main) | 57 Functions & Programs in C | 0 - 2 | Ongoing | 
 <br>
+<img width="1104" alt="42_projects" src="https://github.com/Sheifc/Sheifc/assets/115345487/52893a35-20d6-4753-8cfb-1a4c8a92ca4e">
+
 
 ## ➡️ Contact me on: 
 [LinkedIn](https://www.linkedin.com/in/sheifc/)
