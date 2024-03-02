@@ -66,7 +66,7 @@
   </tr>
   <tr>
     <th>Bioinformatics and Biostatistics Master<br><a href="https://github.com/Sheifc/Bioinformatics-and-Biostatistic-Master">Courses<br></th>
-    <td><img width="626" alt="notas" src=""></a></td>
+    <td><img width="626" alt="" src=""></a></td>
   </tr>
    <tr>
     <td>Data Bootcamp</td>
