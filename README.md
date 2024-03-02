@@ -15,9 +15,6 @@
 
 - 🔭 Currently studying software engineering at **<a href="https://www.42malaga.com/"> 42 Malaga campus sponsord by Telefónica Foundation </a>** which Common core Levels are seven: 0-6
 - 🔬 Had worked a decade as a clinical embryologist in several Hopitals from different countries where I introduced machine learning algorithms and technology. 
-- Google Professional Certificates:
-     - `IT Automation with Python` (6 courses: **Crash Course on Python**, **Using Python to Interact with the Operating System**, **Git and GitHub**, **Troubleshooting and Debugging Techniques**, **Configuration Management and the Cloud** and **Automating Real-World Tasks with Python**)
-     - `IT support` (5 courses: **Technical assistance**, **Bits and bytes of Network**, **Operating system: advanced user**, **System Admin and infrastructure services of IT** and **Cybersecurity: Defense against the digital dark arts**).
 - 🎓 Developed a Thesis about `DICOM Image anonymisation and Data protection` as part of the Bioinformatics and Biostatistics Master at **<a href="https://campus.uoc.edu/"> University of Barcelona & UOC </a>**
 - 👀 Interested in Artifitial Intelligence and Cybersecurity to protect data. 
 
@@ -47,6 +44,12 @@
     <td>Data Bootcamp</td>
     <td>https://codespaceacademy.com/curso/work-camp-data-science/</td>
   </tr>
+  <tr>
+    <td>Google Professional Certificate: `IT Automation with Python`</td>
+    <td>6 courses: **Crash Course on Python**, **Using Python to Interact with the Operating System**, **Git and GitHub**, **Troubleshooting and Debugging Techniques**, **Configuration Management and the Cloud** and **Automating Real-World Tasks with Python**</td>
+    <td>Google Professional Certificate:`IT support`</td> 
+    <td>5 courses: **Technical assistance**, **Bits and bytes of Network**, **Operating system: advanced user**, **System Admin and infrastructure services of IT** and **Cybersecurity: Defense against the digital dark arts**</td>
+   </tr>
 </table>
 
 <br>
