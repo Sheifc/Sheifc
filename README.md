@@ -17,7 +17,7 @@
 Common core Levels: 0-6
 - Google Professional Certificates:
      - IT Automation with Python (6 courses: `Crash Course on Python`, `Using Python to Interact with the Operating System`, `Git and GitHub`, `Troubleshooting and Debugging Techniques`, `Configuration Management and the Cloud` and `Automating Real-World Tasks with Python`)
-     - IT support (5 courses: `Technical assitance`, `Bits and bytes of Network`, `Operating system: advanced user`, `System Admin and infrastructure services of IT` and `Cybersecurity: Defense against the digital dark arts`).
+     - IT support (5 courses: `Technical assistance`, `Bits and bytes of Network`, `Operating system: advanced user`, `System Admin and infrastructure services of IT` and `Cybersecurity: Defense against the digital dark arts`).
 - 🎓 Developed a Thesis in Software development for Image processing and Data protection as part of the Bioinformatics and Biostatistics Master at **<a href="https://campus.uoc.edu/"> University of Barcelona & UOC </a>**
 - 👀 Interested in Artifitial Intelligence and Cybersecurity
 
