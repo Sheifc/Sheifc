@@ -33,13 +33,7 @@
 <br>
 
 <h2>Studies</h2>
-
-<table style="width:100%">
-  <tr>
-    <th>42 Programming Campus:<br><a href="https://github.com/Sheifc/42cursus">Common Core</a><br><a href="https://github.com/Sheifc/42-C-piscine">C piscine</a><br><a href="https://github.com/Sheifc/Shell-42-C-piscine">Shell</a><br></th>
-    <th><a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/greenbinary/sheferna?1337Badge=off&UM6P=off" alt="sheferna's 42 stats" /></a></th>
-  </tr>
- ## 👩‍💻 Common Core Projects at 42 Malaga: [cursus summary](https://github.com/Sheifc/42cursus/tree/main)
+## 👩‍💻 Common Core Projects at 42 Malaga: [cursus summary](https://github.com/Sheifc/42cursus/tree/main)
 |	Name                                               |	Description                                    | Level | Qualifications |
 |:--------------------------------------------------:|:----------------------------------------------:|:-----:|:-------------:|
 |	[Libft](https://github.com/Sheifc/42cursus/tree/main/libft) |  Library development of 43 functions in C      | 0 | 125/100 Bonus |
@@ -50,6 +44,12 @@
 | So long | 2D game development | 2 | Ongoing | 
 | Pipex | Pipelines development - Unix | 2 | Ongoing | 
 | [Exam - Rank 2](https://github.com/Sheifc/Rank2_Exam/tree/main) | 57 Functions & Programs in C | 0 - 2 | 100/100 | 
+<br>
+<table style="width:100%">
+  <tr>
+    <th>42 Programming Campus:<br><a href="https://github.com/Sheifc/42cursus">Common Core</a><br><a href="https://github.com/Sheifc/42-C-piscine">C piscine</a><br><a href="https://github.com/Sheifc/Shell-42-C-piscine">Shell</a><br></th>
+    <th><a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/greenbinary/sheferna?1337Badge=off&UM6P=off" alt="sheferna's 42 stats" /></a></th>
+  </tr>
   <tr>
     <th>Bioinformatics and Biostatistics Master<br><a href="https://github.com/Sheifc/Bioinformatics-and-Biostatistic-Master">Courses<br></th>
     <td><img width="626" alt="" src=""></a></td>
@@ -67,23 +67,8 @@
     <td>- Technical assistance<br>- Bits and bytes of Network<br>- Operating system: advanced user<br>- System Admin and infrastructure services of IT<br>- Cybersecurity: Defense against the digital dark arts</td>
    </tr>
 </table>
-
-<br>
-
-## 👩‍💻 Common Core Projects at 42 Malaga: [cursus summary](https://github.com/Sheifc/42cursus/tree/main)
-|	Name                                               |	Description                                    | Level | Qualifications |
-|:--------------------------------------------------:|:----------------------------------------------:|:-----:|:-------------:|
-|	[Libft](https://github.com/Sheifc/42cursus/tree/main/libft) |  Library development of 43 functions in C      | 0 | 125/100 Bonus |
-| [Printf](https://github.com/Sheifc/42cursus/tree/main/printf) | Printf function development with variatic variables in C | 1 | 100/100 no Bonus |
-| [Get next line](https://github.com/Sheifc/42cursus/tree/main/GNL) | Memory management with arrays & static variables in C | 1 | 125/100 Bonus |
-| [Born2beroot](https://github.com/Sheifc/42cursus/tree/main/Born2beroot) | Admin System | 1 | 125/100 Bonus |
-| Push Swap | Sort algorithm development with lists in C | 2 | Ongoing |
-| So long | 2D game development | 2 | Ongoing | 
-| Pipex | Pipelines development - Unix | 2 | Ongoing | 
-| [Exam - Rank 2](https://github.com/Sheifc/Rank2_Exam/tree/main) | 57 Functions & Programs in C | 0 - 2 | 100/100 | 
 <br>
 <img width="1104" alt="42_projects" src="https://github.com/Sheifc/Sheifc/assets/115345487/52893a35-20d6-4753-8cfb-1a4c8a92ca4e">
-
 
 ## ➡️ Contact me on: 
 [LinkedIn](https://www.linkedin.com/in/sheifc/)
