@@ -59,7 +59,7 @@
 
 <br>
 
-## 👩‍💻 Common Core Projects at 42 Malaga: [cursus](https://github.com/Sheifc/42cursus/tree/main)
+## 👩‍💻 Common Core Projects at 42 Malaga: [cursus summary](https://github.com/Sheifc/42cursus/tree/main)
 |	Name                                               |	Description                                    | Level | Qualifications |
 |:--------------------------------------------------:|:----------------------------------------------:|:-----:|:-------------:|
 |	[Libft](https://github.com/Sheifc/42cursus/tree/main/libft) |  Library development of 43 functions in C      | 0 | 125/100 Bonus |
