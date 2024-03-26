@@ -34,7 +34,7 @@
 
 <h2>Studies</h2>
 
-## 👩‍💻 Common Core Projects at 42 Málaga Telefónica Foundation: [cursus projects](https://github.com/Sheifc/42cursus/tree/main)
+## 👩‍💻 [cursus projects](https://github.com/Sheifc/42cursus/tree/main): Common Core Projects at 42 Málaga Telefónica Foundation
 |	Name                                               |	Description                                    | Level | Qualifications |
 |:--------------------------------------------------:|:----------------------------------------------:|:-----:|:-------------:|
 |	[Libft](https://github.com/Sheifc/42cursus/tree/main/libft) |  Library development of 43 functions in C      | 0 | 125/100 Bonus |
@@ -44,7 +44,7 @@
 | Push Swap | Sort algorithm development with lists in C | 2 | Ongoing |
 | So long | 2D game development | 2 | Ongoing | 
 | Pipex | Pipelines development - Unix | 2 | Ongoing | 
-| [Exam - Rank 2](https://github.com/Sheifc/Rank2_Exam/tree/main) | 57 Functions & Programs in C | 0 - 2 | 100/100 | 
+| [Exam - Rank 2](https://github.com/Sheifc/42cursus/tree/main/Rank2_Exam) | 57 Functions & Programs in C | 0 - 2 | 100/100 | 
 
 <br>
 <table style="width:100%">
