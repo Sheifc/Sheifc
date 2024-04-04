@@ -46,11 +46,11 @@
 | Pipex | Pipelines development - Unix | 2 | Ongoing | 
 | [Exam - Rank 2](https://github.com/Sheifc/42cursus/tree/main/Rank2_Exam) | 57 Functions & Programs in C | 0 - 2 | 100/100 | 
 
-<br>
+<br> https://badge.mediaplus.ma/greenbinary/sheferna?1337Badge=off&UM6P=off" alt="sheferna's 42 stats
 <table style="width:100%">
   <tr>
     <th>42 Programming Campus:<br><a href="https://github.com/Sheifc/42cursus">Common Core</a><br><a href="https://github.com/Sheifc/42-C-piscine">C piscine</a><br><a href="https://github.com/Sheifc/Shell-42-C-piscine">Shell</a><br></th>
-    <th><a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/greenbinary/sheferna?1337Badge=off&UM6P=off" alt="sheferna's 42 stats" /></a></th>
+    <th><a href="https://github.com/oakoudad/badge42"><img src="[![<sheferna>'s 42 stats](https://badge.mediaplus.ma/darkblue/<sheferna>)](https://github.com/oakoudad/badge42)" /></a></th>
   </tr>
   <tr>
     <th>Bioinformatics and Biostatistics Master<br><a href="https://github.com/Sheifc/Bioinformatics-and-Biostatistic-Master">Courses<br></th>
