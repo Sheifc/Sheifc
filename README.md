@@ -15,7 +15,7 @@
 
 - 🔭 Currently studying software engineering at **<a href="https://www.42malaga.com/"> 42 Malaga campus sponsord by Telefónica Foundation </a>** which Common core Levels are seven: 0-6
 - 🔬 Had worked a decade as a clinical embryologist in several Hospitals at different countries where I introduced machine learning algorithms and technology. 
-- 🎓 Developed a Thesis about `DICOM Image anonymisation and Data protection` as part of the Bioinformatics and Biostatistics Master at **<a href="https://campus.uoc.edu/"> University of Barcelona & UOC </a>**
+- 🎓 Developed a Thesis about `DICOM Image anonymisation and Data protection compliance` as part of the Bioinformatics and Biostatistics Master at **<a href="https://campus.uoc.edu/"> University of Barcelona & UOC </a>**
 - 👀 Interested in Artifitial Intelligence and Cybersecurity to protect data. 
 <br>
 <p align="center">
