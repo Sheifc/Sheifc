@@ -17,9 +17,9 @@
 - 🔬 Had worked a decade as a clinical embryologist in several Hospitals at different countries where I introduced machine learning algorithms and technology. 
 - 🎓 Developed a Thesis about `DICOM Image anonymisation and Data protection compliance` as part of the Bioinformatics and Biostatistics Master at **<a href="https://campus.uoc.edu/"> University of Barcelona & UOC </a>**
 - 👀 Interested in Artifitial Intelligence and Cybersecurity to protect data. 
-<br>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sheifc&layout=compact&theme=dark&hide_border=true" />
+<br> https://github-readme-stats.vercel.app/api/top-langs/?username=Sheifc&layout=compact&theme=dark&hide_border=true
+<p align="center"> 
+  <img src="[![<sheferna>'s 42 stats](https://badge.mediaplus.ma/darkblue/<sheferna>)](https://github.com/oakoudad/badge42)" />
 </p>
 <br>
 ## :fire: Technical Skills
