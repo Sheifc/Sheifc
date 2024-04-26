@@ -26,7 +26,7 @@
 ## :fire: Technical Skills
 
 ![My Skills](https://skillicons.dev/icons?i=c,bash,python,r,vim,vscode,git,html,css,github)
-> :desktop_computer:  Languages - Bash | R | C | Python | Markdown | HTML | CSS | HCL  
+> :desktop_computer:  Languages - Bash | R | C | Python | HTML | CSS | HCL  
 > 📚 Python libraries for DS and ML - NumPy | Pandas | Matplotlib | Seaborn | cv2 | os | Tensorflow - keras | sklearn | Transformers  
 > :hammer_and_wrench:  Tools -  Git | GitHub | Docker | Terraform | Jira | Bitbucket  
 > :atom:  IDEs -   Vim | RStudio | Visual Studio Code | Pycharm  
