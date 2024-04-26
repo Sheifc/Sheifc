@@ -71,7 +71,9 @@
    </tr>
 </table>
 <br>
-<img width="1104" alt="42_projects" src="https://github.com/Sheifc/Sheifc/assets/115345487/52893a35-20d6-4753-8cfb-1a4c8a92ca4e">
+
+![image](https://github.com/Sheifc/Sheifc/assets/115345487/e1485337-ce31-4d55-b3f1-4a04bff3cf72)
+
 
 ## ➡️ Contact me on: 
 [LinkedIn](https://www.linkedin.com/in/sheifc/)
