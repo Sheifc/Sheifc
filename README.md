@@ -10,11 +10,12 @@
 ---
 
 ### I quit my job as a Data Python developer to study full time cybersecurity 💻
+### Leader of the AI league and member of the organizer team of the cybersecurity league at 42 Malaga
 
 ---
 
 - 🔭 Currently studying software engineering at **<a href="https://www.42malaga.com/"> 42 Malaga campus sponsord by Telefónica Foundation </a>** which Common core Levels are seven: 0-6
-- 🔬 Had worked a decade as a clinical embryologist in several Hospitals at different countries where I introduced machine learning algorithms and technology. 
+- 🔬 Had worked long time as a clinical embryologist in several Hospitals at different countries where I introduced AI products, machine learning algorithms and technology. 
 - 🎓 Developed a Thesis about software develpment on `DICOM Image anonymisation and Data protection compliance` as part of the Bioinformatics and Biostatistics Master at **<a href="https://campus.uoc.edu/"> University of Barcelona & UOC </a>**
 - 👀 Interested in Artifitial Intelligence and Cybersecurity. 
 <br> 
