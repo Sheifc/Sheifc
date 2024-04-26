@@ -9,14 +9,14 @@
 
 ---
 
-### I work as a Data Scientist & Python Developer in Data  💻
+### I quit my job as a Data Python developer to study full time cybersecurity 💻
 
 ---
 
 - 🔭 Currently studying software engineering at **<a href="https://www.42malaga.com/"> 42 Malaga campus sponsord by Telefónica Foundation </a>** which Common core Levels are seven: 0-6
 - 🔬 Had worked a decade as a clinical embryologist in several Hospitals at different countries where I introduced machine learning algorithms and technology. 
 - 🎓 Developed a Thesis about software develpment on `DICOM Image anonymisation and Data protection compliance` as part of the Bioinformatics and Biostatistics Master at **<a href="https://campus.uoc.edu/"> University of Barcelona & UOC </a>**
-- 👀 Interested in Artifitial Intelligence and Cybersecurity to protect data. 
+- 👀 Interested in Artifitial Intelligence and Cybersecurity. 
 <br> 
 <p align="center"> 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sheifc&layout=compact&theme=dark&hide_border=true" />
