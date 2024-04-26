@@ -44,7 +44,7 @@
 | [Born2beroot](https://github.com/Sheifc/42cursus/tree/main/Born2beroot) | Admin System | 1 | 125/100 Bonus |
 | Push Swap | Sort algorithm development with lists in C | 2 | 125/100 Bonus |
 | So long | 2D game development | 2 | Ongoing | 
-| Pipex | Pipelines development - Unix | 2 | Ongoing | 
+| Pipex | Pipelines development - Unix | 2 | 125/100 Bonus | 
 | [Exam - Rank 2](https://github.com/Sheifc/42cursus/tree/main/Rank2_Exam) | 57 Functions & Programs in C | 0 - 2 | 100/100 | 
 
 <br> 
