@@ -30,7 +30,7 @@
 > 📚 Python libraries for DS and ML - NumPy | Pandas | Matplotlib | Seaborn | cv2 | os | Tensorflow - keras | sklearn | Transformers  
 > :hammer_and_wrench:  Tools -  Git | GitHub | Docker | Terraform | Jira | Bitbucket  
 > :atom:  IDEs -   Vim | RStudio | Visual Studio Code | Pycharm  
-> :desktop_computer: OS - MacOS | Debian | Ubuntu  
+> :desktop_computer: OS - MacOS | Debian | Ubuntu | Kali
 <br>
 
 <h2>Studies</h2>
