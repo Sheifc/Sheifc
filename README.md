@@ -45,7 +45,8 @@
 | [Push Swap](https://github.com/Sheifc/42cursus/tree/main/push_swap) ✅ | Sort algorithm development with lists in C | 2 | 125/100 Bonus |
 | [So long](https://github.com/Sheifc/42cursus/tree/main/so_long) | 2D game development - C | 2 | Ongoing | 
 | [Pipex](https://github.com/Sheifc/42cursus/tree/main/pipex) ✅ | Redirections and pipes, processes - C | 2 | 125/100 Bonus | 
-| [Exam - Rank 2](https://github.com/Sheifc/42cursus/tree/main/Rank2_Exam) ✅ | 57 Functions & Programs in C | 0 - 2 | 100/100 | 
+| [Exam - Rank 2]() ✅ | 57 Functions & Programs in C | 0 - 2 | 100/100 | 
+| [Exam - Rank 3]() ✅ | printf or get_next_line | 1 - 2 | Ongoing | 
 
 <br> 
 <table style="width:100%">
