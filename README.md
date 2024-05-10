@@ -75,7 +75,7 @@
 </table>
 <br>
 
-(![intra_nivel3](https://github.com/Sheifc/Sheifc/assets/115345487/c96e118c-c9bb-4334-a2c4-bbaf103fc1c0)
+![intra_nivel3](https://github.com/Sheifc/Sheifc/assets/115345487/c96e118c-c9bb-4334-a2c4-bbaf103fc1c0)
 
 ## ➡️ Contact me on: 
 [LinkedIn](https://www.linkedin.com/in/sheifc/)
