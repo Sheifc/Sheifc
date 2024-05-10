@@ -9,8 +9,7 @@
 
 ---
 
-### I have experience in Data & AI and currently getting into cybersecurity field 💻
-### Leader of the AI league and member of the cybersecurity leagueborganizer team at 42 Malaga
+### Experienced in Data & AI, Expanding into Cybersecurity | Leader at AI League, Organizer at Cybersecurity Team - 42 Malaga
 
 ---
 
