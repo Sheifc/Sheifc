@@ -9,12 +9,13 @@
 
 ---
 
-### I quit my job as a Data Python developer to study full time cybersecurity 💻
-### Leader of the AI league and member of the organizer team of the cybersecurity league at 42 Malaga
+### I have experience in Data & AI and currently getting into cybersecurity field 💻
+### Leader of the AI league and member of the cybersecurity leagueborganizer team at 42 Malaga
 
 ---
 
 - 🔭 Currently studying software engineering at **<a href="https://www.42malaga.com/"> 42 Malaga campus sponsord by Telefónica Foundation </a>** which Common core Levels are seven: 0-6
+- 🎓 Also studying Cybersecurity Analysis at Accenture Foundation
 - 🔬 Had worked long time as a clinical embryologist in several Hospitals at different countries where I introduced AI products, machine learning algorithms and technology. 
 - 🎓 Developed a Thesis about software develpment on `DICOM Image anonymisation and Data protection compliance` as part of the Bioinformatics Master at **<a href="https://campus.uoc.edu/"> University of Barcelona & UOC </a>**
 - 👀 Interested in Artifitial Intelligence and Cybersecurity. 
@@ -27,10 +28,10 @@
 
 ![My Skills](https://skillicons.dev/icons?i=c,bash,python,r,vim,vscode,git,html,css,github)
 > :desktop_computer:  Languages - Bash | R | C | Python | HTML | CSS | HCL  
-> 📚 Python libraries for DS and ML - NumPy | Pandas | Matplotlib | Seaborn | cv2 | os | Tensorflow - keras | sklearn | Transformers  
+> 📚 Python for DS and ML - NumPy | Pandas | Matplotlib | Seaborn | cv2 | os | Tensorflow - keras | sklearn | Transformers  
 > :hammer_and_wrench:  Tools -  Git | GitHub | Docker | Terraform | Jira | Bitbucket  
 > :atom:  IDEs -   Vim | RStudio | Visual Studio Code | Pycharm  
-> :desktop_computer: OS - MacOS | Debian | Ubuntu | Kali
+> :desktop_computer: OS - MacOS | Debian | Ubuntu | Kali | Windows | Virtualisation: VirtualBox
 <br>
 
 <h2>Studies</h2>
