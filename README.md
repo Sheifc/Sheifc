@@ -10,7 +10,7 @@
 ---
 
 ### Experienced in Data & AI, Expanding into Cybersecurity 
-### Leader at AI League, Developer at Cybersecurity League - 42 Malaga
+### AI League Leader and Cybersecurity League Developer at 42 Malaga
 
 ---
 
