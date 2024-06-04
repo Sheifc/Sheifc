@@ -10,7 +10,7 @@
 ---
 
 ### Experienced in Data & AI, Expanding into Cybersecurity 
-### Leader at AI League, Organizer at Cybersecurity League - 42 Malaga
+### Leader at AI League, Developer at Cybersecurity League - 42 Malaga
 
 ---
 
