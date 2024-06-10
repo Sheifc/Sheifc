@@ -24,6 +24,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sheifc&layout=compact&theme=dark&hide_border=true" />
 </p>
 <br>
+
 ## :fire: Technical Skills
 
 ![My Skills](https://skillicons.dev/icons?i=c,bash,python,r,vim,vscode,git,html,css,github)
