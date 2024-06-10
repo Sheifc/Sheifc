@@ -13,7 +13,7 @@
 ### AI League Leader and Cybersecurity League Developer at 42 Malaga
 
 ---
-- 👀 Interested in Artifitial Intelligence and Cybersecurity. 
+- 👀  Interested in Artifitial Intelligence and Cybersecurity. 
 - 🔭 Currently studying software engineering at **<a href="https://www.42malaga.com/"> 42 Malaga campus sponsord by Telefónica Foundation </a>** which Common core Levels are seven: 0-6 -> Current level achieved: 3.38% ✅ 
 - 🎓 Also studying Cybersecurity Analysis at Accenture Foundation
 - 🎓 Developed a Thesis about software develpment on `DICOM Image anonymisation and Data protection compliance` as part of the Bioinformatics Master at **<a href="https://campus.uoc.edu/"> University of Barcelona & UOC </a>**
