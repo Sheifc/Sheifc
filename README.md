@@ -14,7 +14,7 @@
 
 ---
 
-- 🔭 Currently studying software engineering at **<a href="https://www.42malaga.com/"> 42 Malaga campus sponsord by Telefónica Foundation </a>** which Common core Levels are seven: 0-6 - Current level achieved: 3.38% ✅ 
+- 🔭 Currently studying software engineering at **<a href="https://www.42malaga.com/"> 42 Malaga campus sponsord by Telefónica Foundation </a>** which Common core Levels are seven: 0-6 -> Current level achieved: 3.38% ✅ 
 - 🎓 Also studying Cybersecurity Analysis at Accenture Foundation
 - 🔬 Had worked long time as a clinical embryologist in several Hospitals at different countries where I introduced AI products, machine learning algorithms and technology. 
 - 🎓 Developed a Thesis about software develpment on `DICOM Image anonymisation and Data protection compliance` as part of the Bioinformatics Master at **<a href="https://campus.uoc.edu/"> University of Barcelona & UOC </a>**
