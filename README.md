@@ -39,14 +39,14 @@
 ## 👩‍💻 [cursus projects](https://github.com/Sheifc/42cursus/tree/main): Common Core Projects at 42 Málaga Telefónica Foundation
 |	Name                                               |	Description                                    | Level | Qualifications |
 |:--------------------------------------------------|:----------------------------------------------|:-----:|:-------------:|
-|	[Libft](https://github.com/Sheifc/42cursus/tree/main/libft) ✅ |  Library development of 43 system functions in C      | 0 | 125/100 Bonus |
-| [Printf](https://github.com/Sheifc/42cursus/tree/main/printf) ✅ | Printf function development with variatic variables in C | 1 | 100/100 no Bonus |
-| [Get next line](https://github.com/Sheifc/42cursus/tree/main/GNL) ✅ | Memory management with arrays & static variables in C | 1 | 125/100 Bonus |
-| [Born2beroot](https://github.com/Sheifc/42cursus/tree/main/Born2beroot) ✅ | Admin System and virtualisation and encryptation| 1 | 125/100 Bonus |
+|	[Libft](https://github.com/Sheifc/42cursus/tree/main/libft) ✅ |  Library development of 43 system functions in C      | 0 | 125/100 | Bonus ✅ |
+| [Printf](https://github.com/Sheifc/42cursus/tree/main/printf) ✅ | Printf function development with variatic variables in C | 1 | 100/100 | no Bonus |
+| [Get next line](https://github.com/Sheifc/42cursus/tree/main/GNL) ✅ | Memory management with arrays & static variables in C | 1 | 125/100 | Bonus ✅ |
+| [Born2beroot](https://github.com/Sheifc/42cursus/tree/main/Born2beroot) ✅ | Admin System and virtualisation and encryptation| 1 | 125/100 | Bonus ✅ |
 | [Exam - Rank 2](https://github.com/Sheifc/42cursus/tree/main/Rank2_Exam) ✅ | 57 Functions & Programs in C | 0 - 2 | 100/100 | 
-| [Push Swap](https://github.com/Sheifc/42cursus/tree/main/push_swap) ✅ | Sort algorithm development with lists in C | 2 | 125/100 Bonus |
-| [Pipex](https://github.com/Sheifc/42cursus/tree/main/pipex) ✅ | Redirections and pipes, processes - C | 2 | 125/100 Bonus | 
-| [So long](https://github.com/Sheifc/42cursus/tree/main/so_long) ✅ | 2D game development - C | 2 | 100/100 no Bonus | 
+| [Push Swap](https://github.com/Sheifc/42cursus/tree/main/push_swap) ✅ | Sort algorithm development with lists in C | 2 | 125/100 | Bonus ✅ |
+| [Pipex](https://github.com/Sheifc/42cursus/tree/main/pipex) ✅ | Redirections and pipes, processes - C | 2 | 125/100 | Bonus ✅ | 
+| [So long](https://github.com/Sheifc/42cursus/tree/main/so_long) ✅ | 2D game development - C | 2 | 100/100 | no Bonus | 
 | [Exam - Rank 3]()  | printf or get_next_line | 1 - 2 | Ongoing | 
 | [Philosophers]()  | Management of threads with C | 3 | Ongoing |
 | [Minishell]()  | Develop the bash shell with a partner | 3 | Ongoing |
