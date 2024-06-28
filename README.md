@@ -30,11 +30,11 @@
 ![My Skills](https://skillicons.dev/icons?i=aws,kali,docker,powershell,c,bash,python,r,vim,vscode,git,html,css,github)
 > :satellite: Networking - WireShark | Nmap | Netcat | Netstat  
 > :toolbox:  Ghidra | Metasploit | Radare2 | ExifTool | Binwalk | Maltego | VirusTotal  
-> :desktop_computer:  Languages - Bash | R | C | Python | Powershell | HTML | CSS | HCL  
+> :desktop_computer: Bash | R | C | Python | Powershell | HTML | CSS | HCL  
 > 📚 Python for DS and ML - NumPy | Pandas | Matplotlib | Seaborn | cv2 | os | Tensorflow - keras | sklearn | Transformers  
-> :hammer_and_wrench:  Tools -  Git | GitHub | Docker | AWS | Terraform | Jira | Bitbucket  
-> :atom:  IDEs -   Vim | RStudio | Visual Studio Code | Pycharm  
-> :desktop_computer: OS - MacOS | Debian | Ubuntu | Kali | Windows | Virtualisation: VirtualBox
+> :hammer_and_wrench:  Git | GitHub | Docker | AWS | Terraform | Jira | Bitbucket  
+> :atom: Vim | RStudio | Visual Studio Code | Pycharm  
+> :desktop_computer: MacOS | Debian | Ubuntu | Kali | Windows | Virtualisation: VirtualBox
 <br>
 
 <h2>Studies</h2>
