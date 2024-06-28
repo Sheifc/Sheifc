@@ -24,17 +24,17 @@
 <br> 
 <table style="width:100%">
   <tr>
-    <th>Windows<br><a href="https://github.com/Sheifc/Cybersecurity/tree/main/Windows">Windows<br></th>
+    <th><a href="https://github.com/Sheifc/Cybersecurity/tree/main/Windows">Windows<br></th>
   <tr>
-    <th>Linux<br><a hred="https://github.com/Sheifc/Cybersecurity/tree/main/Linux">Linux<br></th>
+    <th><a href="https://github.com/Sheifc/Cybersecurity/tree/main/Linux">Linux<br></th>
   </tr>
-    <th>Network<br><a href="https://github.com/Sheifc/Cybersecurity/tree/main/Networking-Cisco">Cisco<br></a>th>
-  </tr>
-  </tr>
-    <th>Wireshark<br><a href="https://github.com/Sheifc/Cybersecurity/tree/main/Wireshark">Wireshark<br></a>th>
+    <th>Network<br><a href="https://github.com/Sheifc/Cybersecurity/tree/main/Networking-Cisco">Cisco<br></a></a>th>
   </tr>
   </tr>
-    <th>Bandit<br><a href="https://github.com/Sheifc/Cybersecurity/blob/main/Bandit.pdf">Bandit<br></a>th>
+    <th><a href="https://github.com/Sheifc/Cybersecurity/tree/main/Wireshark">Wireshark<br></a></a>th>
+  </tr>
+  </tr>
+    <th><a href="https://github.com/Sheifc/Cybersecurity/blob/main/Bandit.pdf">Bandit<br></a></th>
   </tr>
 </table>
 <br>
