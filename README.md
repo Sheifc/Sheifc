@@ -21,26 +21,6 @@
 
 ## 👩‍💻 [Cybersecurity](https://github.com/Sheifc/Cybersecurity): Cybersecurity journey
 
-<br> 
-<div style="width:100%;">
-<table style="width:100%">
-  <tr>
-    <th><a href="https://github.com/Sheifc/Cybersecurity/tree/main/Windows">Windows<br></th>
-  <tr>
-    <th><a href="https://github.com/Sheifc/Cybersecurity/tree/main/Linux">Linux<br></th>
-  </tr>
-    <th>Network<br><a href="https://github.com/Sheifc/Cybersecurity/tree/main/Networking-Cisco">Cisco<br></a></th>
-  </tr>
-  </tr>
-    <th><a href="https://github.com/Sheifc/Cybersecurity/tree/main/Wireshark">Wireshark<br></a></th>
-  </tr>
-  </tr>
-    <th><a href="https://github.com/Sheifc/Cybersecurity/blob/main/Bandit.pdf">Bandit<br></a></th>
-  </tr>
-</table>
-</div>
-<br>
-
 <table style="width:100%">
   <tr>
     <th><a href="https://github.com/Sheifc/Cybersecurity/tree/main/Windows">Windows</a></th>
