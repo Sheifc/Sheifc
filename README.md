@@ -19,17 +19,16 @@
 - 🎓 Developed a Thesis about software development on `DICOM Image anonymisation and Data protection compliance` as part of the **<a href="https://www.uoc.edu/es/estudios/masters/master-universitario-bioinformatica-bioestadistica"> Bioinformatics Master </a>** at `University of Barcelona & UOC`
 - 🔬 Had worked long time as a clinical embryologist in several Hospitals at different countries where I introduced AI products, machine learning algorithms and technology. 
 
+## 👩‍💻 [Cybersecurity](https://github.com/Sheifc/Cybersecurity): Cybersecurity journey
+|	Name                                               |	Description                                  |
+|:--------------------------------------------------|:----------------------------------------------|
+|	[Linux]([https://github.com/Sheifc/42cursus/tree/main/libft](https://github.com/Sheifc/Cybersecurity/tree/main/Linux) |  iptables | 
+
 <br> 
 <p align="center"> 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sheifc&layout=compact&theme=dark&hide_border=true" />
 </p>
 <br>
-
-## 👩‍💻 [Cybersecurity](https://github.com/Sheifc/Cybersecurity): Cybersecurity journey
-|	Name                                               |	Description                                  |
-|:--------------------------------------------------|:----------------------------------------------|
-|	[Linux]([https://github.com/Sheifc/42cursus/tree/main/libft](https://github.com/Sheifc/Cybersecurity/tree/main/Linux)) |  iptables | 
-
 
 ## :fire: Technical Skills
 
