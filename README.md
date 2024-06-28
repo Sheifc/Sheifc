@@ -28,10 +28,10 @@
   <tr>
     <th><a href="https://github.com/Sheifc/Cybersecurity/tree/main/Linux">Linux<br></th>
   </tr>
-    <th>Network<br><a href="https://github.com/Sheifc/Cybersecurity/tree/main/Networking-Cisco">Cisco<br></a></a>th>
+    <th>Network<br><a href="https://github.com/Sheifc/Cybersecurity/tree/main/Networking-Cisco">Cisco<br></a></th>
   </tr>
   </tr>
-    <th><a href="https://github.com/Sheifc/Cybersecurity/tree/main/Wireshark">Wireshark<br></a></a>th>
+    <th><a href="https://github.com/Sheifc/Cybersecurity/tree/main/Wireshark">Wireshark<br></a></th>
   </tr>
   </tr>
     <th><a href="https://github.com/Sheifc/Cybersecurity/blob/main/Bandit.pdf">Bandit<br></a></th>
