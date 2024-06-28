@@ -25,6 +25,12 @@
 </p>
 <br>
 
+## 👩‍💻 [Cybersecurity](https://github.com/Sheifc/Cybersecurity): Cybersecurity journey
+|	Name                                               |	Description                                  |
+|:--------------------------------------------------|:----------------------------------------------|
+|	[Linux]([https://github.com/Sheifc/42cursus/tree/main/libft](https://github.com/Sheifc/Cybersecurity/tree/main/Linux)) |  iptables | 
+
+
 ## :fire: Technical Skills
 
 ![My Skills](https://skillicons.dev/icons?i=aws,kali,docker,powershell,c,bash,python,r,vim,vscode,git,html,css,github)
@@ -38,8 +44,6 @@
 <br>
 
 <h2>Studies</h2>
-
-## 👩‍💻 [Cybersecurity](https://github.com/Sheifc/Cybersecurity): Cybersecurity journey
 
 ## 👩‍💻 [cursus projects](https://github.com/Sheifc/42cursus/tree/main): Common Core Projects at 42 Málaga Telefónica Foundation
 |	Name                                               |	Description                                    | Level | Qualifications | Bonus |
