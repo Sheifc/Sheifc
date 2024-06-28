@@ -26,7 +26,7 @@
 |	[Linux](https://github.com/Sheifc/Cybersecurity/tree/main/Linux) |  iptables | 
 | [Network](https://github.com/Sheifc/Cybersecurity/tree/main/Networking-Cisco) | |
 | [Wireshark](https://github.com/Sheifc/Cybersecurity/tree/main/Wireshark) | |
-| [Bandit] | In progress |
+| [Bandit](https://github.com/Sheifc/Cybersecurity/blob/main/Bandit.pdf) | In progress |
 
 <br> 
 <p align="center"> 
