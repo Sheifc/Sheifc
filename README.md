@@ -41,6 +41,17 @@
 </div>
 <br>
 
+<table style="width:100%">
+  <tr>
+    <th><a href="https://github.com/Sheifc/Cybersecurity/tree/main/Windows">Windows</a></th>
+    <th><a href="https://github.com/Sheifc/Cybersecurity/tree/main/Linux">Linux</a></th>
+    <th><a href="https://github.com/Sheifc/Cybersecurity/tree/main/Networking-Cisco">Network<br>Cisco</a></th>
+    <th><a href="https://github.com/Sheifc/Cybersecurity/tree/main/Wireshark">Wireshark</a></th>
+    <th><a href="https://github.com/Sheifc/Cybersecurity/blob/main/Bandit.pdf">Bandit</a></th>
+  </tr>
+</table>
+
+
 ## :fire: Technical Skills
 
 ![My Skills](https://skillicons.dev/icons?i=aws,kali,docker,powershell,c,bash,python,r,vim,vscode,git,html,css,github)
