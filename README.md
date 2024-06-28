@@ -39,7 +39,7 @@
 
 <h2>Studies</h2>
 
-## 👩‍💻 
+## 👩‍💻 [Cybersecurity](https://github.com/Sheifc/Cybersecurity): Cybersecurity journey
 
 ## 👩‍💻 [cursus projects](https://github.com/Sheifc/42cursus/tree/main): Common Core Projects at 42 Málaga Telefónica Foundation
 |	Name                                               |	Description                                    | Level | Qualifications | Bonus |
