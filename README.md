@@ -39,6 +39,8 @@
 
 <h2>Studies</h2>
 
+## 👩‍💻 
+
 ## 👩‍💻 [cursus projects](https://github.com/Sheifc/42cursus/tree/main): Common Core Projects at 42 Málaga Telefónica Foundation
 |	Name                                               |	Description                                    | Level | Qualifications | Bonus |
 |:--------------------------------------------------|:----------------------------------------------|:-----:|:----------------:|:----------------:|
