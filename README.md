@@ -35,7 +35,6 @@
   </tr>
   </tr>
     <th><a href="https://github.com/Sheifc/Cybersecurity/blob/main/Bandit.pdf">Bandit<br></a></th>
-     <td><img width="626" alt="" src=""></a></td>
   </tr>
 </table>
 <br>
