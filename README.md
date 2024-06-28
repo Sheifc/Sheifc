@@ -28,6 +28,8 @@
 ## :fire: Technical Skills
 
 ![My Skills](https://skillicons.dev/icons?i=aws,kali,docker,powershell,c,bash,python,r,vim,vscode,git,html,css,github)
+> :satellite: Networking - WireShark | Nmap | Netcat | Netstat 
+> :toolbox:  Ghidra | Metasploit | Radare2 | ExifTool | Binwalk | Maltego | VirusTotal  
 > :desktop_computer:  Languages - Bash | R | C | Python | Powershell | HTML | CSS | HCL  
 > 📚 Python for DS and ML - NumPy | Pandas | Matplotlib | Seaborn | cv2 | os | Tensorflow - keras | sklearn | Transformers  
 > :hammer_and_wrench:  Tools -  Git | GitHub | Docker | AWS | Terraform | Jira | Bitbucket  
