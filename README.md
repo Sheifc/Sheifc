@@ -22,7 +22,11 @@
 ## 👩‍💻 [Cybersecurity](https://github.com/Sheifc/Cybersecurity): Cybersecurity journey
 |	Name                                               |	Description                                  |
 |:--------------------------------------------------|:----------------------------------------------|
-|	[Linux]([https://github.com/Sheifc/42cursus/tree/main/libft](https://github.com/Sheifc/Cybersecurity/tree/main/Linux) |  iptables | 
+| [Windows](https://github.com/Sheifc/Cybersecurity/tree/main/Windows) | |
+|	[Linux](https://github.com/Sheifc/Cybersecurity/tree/main/Linux) |  iptables | 
+| [Network](https://github.com/Sheifc/Cybersecurity/tree/main/Networking-Cisco) | |
+| [Wireshark](https://github.com/Sheifc/Cybersecurity/tree/main/Wireshark) | |
+| [Bandit] | In progress |
 
 <br> 
 <p align="center"> 
