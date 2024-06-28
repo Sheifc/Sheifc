@@ -24,15 +24,18 @@
 <br> 
 <table style="width:100%">
   <tr>
-    <th>[Windows](https://github.com/Sheifc/Cybersecurity/tree/main/Windows)</th>
-|	Name                                               |	Description                                  |
-|:--------------------------------------------------|:----------------------------------------------|
-| [Windows](https://github.com/Sheifc/Cybersecurity/tree/main/Windows) | |
-|	[Linux](https://github.com/Sheifc/Cybersecurity/tree/main/Linux) |  iptables | 
-| [Network](https://github.com/Sheifc/Cybersecurity/tree/main/Networking-Cisco) | |
-| [Wireshark](https://github.com/Sheifc/Cybersecurity/tree/main/Wireshark) | |
-| [Bandit](https://github.com/Sheifc/Cybersecurity/blob/main/Bandit.pdf) | In progress |
-   </tr>
+    <th>Windows<br><a href="https://github.com/Sheifc/Cybersecurity/tree/main/Windows">Windows<br></th>
+  <tr>
+    <th>Linux<br><a hred="https://github.com/Sheifc/Cybersecurity/tree/main/Linux">Linux<br></th>
+  </tr>
+    <th>Network<br><a href="https://github.com/Sheifc/Cybersecurity/tree/main/Networking-Cisco">Cisco<br></a>th>
+  </tr>
+  </tr>
+    <th>Wireshark<br><a href="https://github.com/Sheifc/Cybersecurity/tree/main/Wireshark">Wireshark<br></a>th>
+  </tr>
+  </tr>
+    <th>Bandit<br><a href="https://github.com/Sheifc/Cybersecurity/blob/main/Bandit.pdf">Bandit<br></a>th>
+  </tr>
 </table>
 <br>
 
