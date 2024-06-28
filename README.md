@@ -20,6 +20,11 @@
 - 🔬 Had worked long time as a clinical embryologist in several Hospitals at different countries where I introduced AI products, machine learning algorithms and technology. 
 
 ## 👩‍💻 [Cybersecurity](https://github.com/Sheifc/Cybersecurity): Cybersecurity journey
+
+<br> 
+<table style="width:100%">
+  <tr>
+    <th>[Windows](https://github.com/Sheifc/Cybersecurity/tree/main/Windows)</th>
 |	Name                                               |	Description                                  |
 |:--------------------------------------------------|:----------------------------------------------|
 | [Windows](https://github.com/Sheifc/Cybersecurity/tree/main/Windows) | |
@@ -27,6 +32,9 @@
 | [Network](https://github.com/Sheifc/Cybersecurity/tree/main/Networking-Cisco) | |
 | [Wireshark](https://github.com/Sheifc/Cybersecurity/tree/main/Wireshark) | |
 | [Bandit](https://github.com/Sheifc/Cybersecurity/blob/main/Bandit.pdf) | In progress |
+   </tr>
+</table>
+<br>
 
 ## :fire: Technical Skills
 
