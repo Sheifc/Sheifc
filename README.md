@@ -22,6 +22,7 @@
 ## 👩‍💻 [Cybersecurity](https://github.com/Sheifc/Cybersecurity): Cybersecurity journey
 
 <br> 
+<div style="width:100%;">
 <table style="width:100%">
   <tr>
     <th><a href="https://github.com/Sheifc/Cybersecurity/tree/main/Windows">Windows<br></th>
@@ -37,6 +38,7 @@
     <th><a href="https://github.com/Sheifc/Cybersecurity/blob/main/Bandit.pdf">Bandit<br></a></th>
   </tr>
 </table>
+</div>
 <br>
 
 ## :fire: Technical Skills
