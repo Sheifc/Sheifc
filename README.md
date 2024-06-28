@@ -28,12 +28,6 @@
 | [Wireshark](https://github.com/Sheifc/Cybersecurity/tree/main/Wireshark) | |
 | [Bandit](https://github.com/Sheifc/Cybersecurity/blob/main/Bandit.pdf) | In progress |
 
-<br> 
-<p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sheifc&layout=compact&theme=dark&hide_border=true" />
-</p>
-<br>
-
 ## :fire: Technical Skills
 
 ![My Skills](https://skillicons.dev/icons?i=aws,kali,docker,powershell,c,bash,python,r,vim,vscode,git,html,css,github)
@@ -86,6 +80,12 @@
     <td>- Technical assistance<br>- Bits and bytes of Network<br>- Operating system: advanced user<br>- System Admin and infrastructure services of IT<br>- Cybersecurity: Defense against the digital dark arts</td>
    </tr>
 </table>
+<br>
+
+<br> 
+<p align="center"> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sheifc&layout=compact&theme=dark&hide_border=true" />
+</p>
 <br>
 
 ![intra_nivel3](https://github.com/Sheifc/Sheifc/assets/115345487/c96e118c-c9bb-4334-a2c4-bbaf103fc1c0)
