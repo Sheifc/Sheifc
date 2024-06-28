@@ -58,6 +58,12 @@
 | [Minishell]()  | Develop the bash shell with a partner | 3 | Ongoing | no Bonus |
 
 <br> 
+<p align="center"> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sheifc&layout=compact&theme=dark&hide_border=true" />
+</p>
+<br>
+
+<br> 
 <table style="width:100%">
   <tr>
     <th>42 Programming Campus:<br><a href="https://github.com/Sheifc/42cursus">Common Core</a><br><a href="https://github.com/Sheifc/42-C-piscine">C piscine</a><br><a href="https://github.com/Sheifc/Shell-42-C-piscine">Shell</a><br></th>
@@ -80,12 +86,6 @@
     <td>- Technical assistance<br>- Bits and bytes of Network<br>- Operating system: advanced user<br>- System Admin and infrastructure services of IT<br>- Cybersecurity: Defense against the digital dark arts</td>
    </tr>
 </table>
-<br>
-
-<br> 
-<p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sheifc&layout=compact&theme=dark&hide_border=true" />
-</p>
 <br>
 
 ![intra_nivel3](https://github.com/Sheifc/Sheifc/assets/115345487/c96e118c-c9bb-4334-a2c4-bbaf103fc1c0)
