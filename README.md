@@ -17,7 +17,7 @@
 - 🎓 Developed a Thesis about software development on `DICOM Image anonymisation and Data protection compliance` as part of the **<a href="https://www.uoc.edu/es/estudios/masters/master-universitario-bioinformatica-bioestadistica"> Bioinformatics Master </a>** at `University of Barcelona & UOC`
 - 🔬 Had worked long time as a clinical embryologist in several Hospitals at different countries where I introduced AI products, machine learning algorithms and technology. 
 
-## 👩‍💻 [My Cybersecurity journey](https://github.com/Sheifc/Cybersecurity)
+## 👩‍💻 My Cybersecurity journey: [Here](https://github.com/Sheifc/Cybersecurity)
 
 <table style="width:100%">
   <tr>
