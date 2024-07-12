@@ -17,19 +17,6 @@
 - 🎓 Developed a Thesis about software development on `DICOM Image anonymisation and Data protection compliance` as part of the **<a href="https://www.uoc.edu/es/estudios/masters/master-universitario-bioinformatica-bioestadistica"> Bioinformatics Master </a>** at `University of Barcelona & UOC`
 - 🔬 Had worked long time as a clinical embryologist in several Hospitals at different countries where I introduced AI products, machine learning algorithms and technology. 
 
-## 👩‍💻 My Cybersecurity journey: [Here](https://github.com/Sheifc/Cybersecurity)
-
-<table style="width:100%">
-  <tr>
-    <th><a href="https://github.com/Sheifc/Cybersecurity/tree/main/Windows">Windows</a></th>
-    <th><a href="https://github.com/Sheifc/Cybersecurity/tree/main/Linux">Linux</a></th>
-    <th><a href="https://github.com/Sheifc/Cybersecurity/tree/main/Networking-Cisco">Network<br>Cisco</a></th>
-    <th><a href="https://github.com/Sheifc/Cybersecurity/tree/main/Wireshark">Wireshark</a></th>
-    <th><a href="https://github.com/Sheifc/Cybersecurity/blob/main/Bandit.pdf">Bandit</a></th>
-  </tr>
-</table>
-
-
 ## :fire: Technical Skills
 
 ![My Skills](https://skillicons.dev/icons?i=aws,kali,docker,powershell,c,bash,python,r,vim,vscode,git,html,css,github)
