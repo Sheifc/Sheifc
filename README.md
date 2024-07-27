@@ -1,8 +1,9 @@
 <p align="center"><img width=15%" src="" alt="" /></p>
 
+# Hi there 👋 it's Sheila 🤗
+
 ![image](https://github.com/user-attachments/assets/1d8acf60-715e-44b7-9aa7-5ece75dcf7df)
 
-# Hi there 👋 it's Sheila 🤗
  <p align="center">
         <img src="https://img.shields.io/badge/Nat-🇪🇸-%23aaaaaa.svg?style=flat" alt="Native language"/>
         <img src="https://img.shields.io/badge/C1-🇬🇧-%23aaaaaa.svg?style=flat" alt="Second language"/>
