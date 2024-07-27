@@ -1,6 +1,10 @@
 <p align="center"><img width=15%" src="" alt="" /></p>
 
-# Hi there 👋 it's Sheila 🤗
+<center>
+
+<h1> Hi there 👋 it's Sheila 🤗 </h1>
+
+</center>
 
 ![image](https://github.com/user-attachments/assets/1d8acf60-715e-44b7-9aa7-5ece75dcf7df)
 
