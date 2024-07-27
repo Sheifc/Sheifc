@@ -1,7 +1,6 @@
 <p align="center"><img width=15%" src="" alt="" /></p>
 
-![Uploading image.png…]()
-
+![image](https://github.com/user-attachments/assets/1d8acf60-715e-44b7-9aa7-5ece75dcf7df)
 
 # Hi there 👋 it's Sheila 🤗
  <p align="center">
