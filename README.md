@@ -47,7 +47,7 @@
 
 <h2>Studies</h2>
 
-## 👩‍💻 42 cursus projects: [Here](https://github.com/Sheifc/42cursus/tree/main)
+## Software development 👩‍💻 - 42 The Network - cursus projects: 👉 [Here](https://github.com/Sheifc/42cursus/tree/main)
 |	Name                                               |	Description                                    | Level | Qualifications | Bonus |
 |:--------------------------------------------------|:----------------------------------------------|:-----:|:----------------:|:----------------:|
 |	[Libft](https://github.com/Sheifc/42cursus/tree/main/libft) ✅ |  Library development of 43 system functions in C      | 0 | 125/100 | Bonus ✅ |
