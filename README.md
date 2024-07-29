@@ -27,7 +27,7 @@
     <th><a href="https://github.com/Sheifc/Cybersecurity/tree/main/Wireshark">Wireshark</a></th>
     <th><a href="https://github.com/Sheifc/Cybersecurity/blob/main/Bandit.pdf">Bandit</a></th>
     <th><a href="https://github.com/Sheifc/Cybersecurity/tree/main/Cloud">Cloud</a></th>
-    <th><a href="">SOC Tools: EDR, SIEM, TIP, SOAR, ITSM</a></th>
+    <th><a href="https://github.com/Sheifc/Cybersecurity/tree/main/SOC-Tools">SOC Tools: EDR, SIEM, TIP, SOAR, ITSM</a></th>
   </tr>
 </table>
 
