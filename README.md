@@ -45,7 +45,7 @@
 > :desktop_computer: MacOS | Debian | Ubuntu | Kali | Windows | Virtualisation: VirtualBox
 <br>
 
-<h2>Studies</h2>
+---
 
 ## Software development 👩‍💻 - 42 The Network - cursus projects: 👉 [Here](https://github.com/Sheifc/42cursus/tree/main)
 |	Name                                               |	Description                                    | Level | Qualifications | Bonus |
