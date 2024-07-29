@@ -16,6 +16,21 @@
 ### AI League Leader and Cybersecurity League Developer at 42 Malaga
 
 ---
+
+## 👩‍💻 My Cybersecurity journey: [Here](https://github.com/Sheifc/Cybersecurity)
+
+<table style="width:100%">
+  <tr>
+    <th><a href="https://github.com/Sheifc/Cybersecurity/tree/main/Windows">Windows</a></th>
+    <th><a href="https://github.com/Sheifc/Cybersecurity/tree/main/Linux">Linux</a></th>
+    <th><a href="https://github.com/Sheifc/Cybersecurity/tree/main/Networking-Cisco">Network<br>Cisco</a></th>
+    <th><a href="https://github.com/Sheifc/Cybersecurity/tree/main/Wireshark">Wireshark</a></th>
+    <th><a href="https://github.com/Sheifc/Cybersecurity/blob/main/Bandit.pdf">Bandit</a></th>
+  </tr>
+</table>
+
+---
+
 - 🔭 Currently studying [Cibersecurity at Fundaula](https://www.fundaula.es/perfiles-profesionales-tecnologicos?filters=tecnologia&p=12354&locale=es-ES) Accenture Foundation and  **<a href="https://www.42malaga.com/"> Software Engineering at 42 Malaga campus </a>** sponsord by Telefónica Foundation which Common core Levels are seven: 0-6 -> Current level achieved: 3.38% ✅ 
 - 🎓 Developed a Thesis about software development on `DICOM Image anonymisation and Data protection compliance` as part of the **<a href="https://www.uoc.edu/es/estudios/masters/master-universitario-bioinformatica-bioestadistica"> Bioinformatics Master </a>** at `University of Barcelona & UOC`
 - 🔬 Had worked long time as a clinical embryologist in several Hospitals at different countries where I introduced AI products, machine learning algorithms and technology. 
