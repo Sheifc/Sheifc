@@ -12,12 +12,12 @@
 
 ---
 
-### Experienced in Data & AI, Expanding into Cybersecurity 
-### AI League Leader and Cybersecurity League Developer at 42 Malaga
+### <p align="center">Experienced in Data & AI, Expanding into Cybersecurity</p>
+### <p align="center">AI League Leader and Cybersecurity League Developer at 42 Malaga</p>
 
 ---
 
-## 👩‍💻 My Cybersecurity journey: [Here](https://github.com/Sheifc/Cybersecurity)
+## <p align="center">👩‍💻 My Cybersecurity journey: [Here](https://github.com/Sheifc/Cybersecurity) </p>
 
 <table style="width:100%">
   <tr>
