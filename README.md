@@ -17,7 +17,7 @@
 
 ---
 
-## <p align="center">👩‍💻 My Cybersecurity journey: [Here](https://github.com/Sheifc/Cybersecurity) </p>
+## <p align="center">👩‍💻 My Cybersecurity journey: 👉 [Here](https://github.com/Sheifc/Cybersecurity) </p>
 
 <table style="width:100%">
   <tr>
