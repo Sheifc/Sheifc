@@ -8,7 +8,7 @@
         <img src="https://komarev.com/ghpvc/?username=Sheifc&style=flat&color=blue"></a>
 </p>
 
-![image](https://github.com/user-attachments/assets/1d8acf60-715e-44b7-9aa7-5ece75dcf7df)
+![](https://github.com/user-attachments/assets/7b5636e6-f965-4656-9e83-2c8601661f78)
 
 ---
 
