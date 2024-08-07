@@ -58,7 +58,7 @@
 | [Push Swap](https://github.com/Sheifc/42cursus/tree/main/push_swap) ✅ | Sort algorithm development with lists in C | 2 | 125/100 | Bonus ✅ |
 | [Pipex](https://github.com/Sheifc/42cursus/tree/main/pipex) ✅ | Redirections and pipes, processes - C | 2 | 125/100 | Bonus ✅ | 
 | [So long](https://github.com/Sheifc/42cursus/tree/main/so_long) ✅ | 2D game development - C | 2 | 100/100 | no Bonus | 
-| [Philosophers]() ✅ | Management of threads with C | 3 | 100/100 | no Bonus |
+| [Philosophers](https://github.com/Sheifc/42cursus/tree/main/philo) ✅ | Management of threads with C | 3 | 100/100 | no Bonus |
 | [Exam - Rank 3]()  | printf or get_next_line | 1 - 2 | Ongoing | - | 
 | [Minishell]()  | Develop the bash shell with a partner | 3 | Ongoing | no Bonus |
 
