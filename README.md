@@ -60,7 +60,7 @@
 | [So long](https://github.com/Sheifc/42cursus/tree/main/so_long) ✅ | 2D game development - C | 2 | 100/100 | no Bonus | 
 | [Philosophers](https://github.com/Sheifc/42cursus/tree/main/philo) ✅ | Management of threads with C | 3 | 100/100 | no Bonus |
 | [Exam - Rank 3]() ✅ | printf or get_next_line | 1 - 2 | 100/100 | - | 
-| [Minishell]()  | Develop the bash shell with a partner | 3 | Ongoing | no Bonus |
+| [Minishell]() ✅ | Develop the bash shell with a partner | 3 | 125/100 | Bonus ✅ |
 | [Netpractice]()  | Fix network connections between different Hosts, Routers, Switch, etc | 4 | Ongoing | - |
 | [Exam - Rank 4]()  | Microshell | 4 | Ongoing | - |
 | [Cub3d]()  | Develop a 3D game | 4 | Ongoing | no Bonus |
