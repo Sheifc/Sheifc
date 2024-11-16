@@ -8,7 +8,7 @@
         <img src="https://komarev.com/ghpvc/?username=Sheifc&style=flat&color=blue"></a>
 </p>
 
-![](https://github.com/user-attachments/assets/7b5636e6-f965-4656-9e83-2c8601661f78)
+
 
 ---
 
@@ -69,11 +69,6 @@
 <br> 
 <p align="center"> 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sheifc&layout=compact&theme=dark&hide_border=true" />
-</p>
-<br>
-<br> 
-<p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=Sheifc&theme=radical&show_icons=true" />
 </p>
 <br>
 <br> 
