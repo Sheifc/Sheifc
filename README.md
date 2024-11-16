@@ -71,7 +71,11 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sheifc&layout=compact&theme=dark&hide_border=true" />
 </p>
 <br>
-
+<br> 
+<p align="center"> 
+  <img src="https://github-readme-stats.vercel.app/api?username=Sheifc&theme=radical&show_icons=true" />
+</p>
+<br>
 <br> 
 <table style="width:100%">
   <tr>
