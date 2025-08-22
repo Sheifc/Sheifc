@@ -99,7 +99,6 @@
 </table>
 <br>
 
-![intra_nivel3](https://github.com/Sheifc/Sheifc/assets/115345487/c96e118c-c9bb-4334-a2c4-bbaf103fc1c0)
 <img width="1218" height="1098" alt="intra" src="https://github.com/user-attachments/assets/a124e56a-5620-4832-87bc-0026190f6b41" />
 
 ## ➡️ Contact me on: 
