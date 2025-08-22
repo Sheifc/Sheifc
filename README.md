@@ -65,6 +65,7 @@
 | [Exam - Rank 4]() ✅ | Microshell | 4 | 100/100 | - |
 | [Cub3d](https://github.com/cadufrederiksen/Cub3d) ✅ | Develop a 3D game | 4 | 100/100 | no Bonus |
 | [C++]()  | Develop some functions on C++ | 4 | Ongoing | - |
+| [Exam - Rank 5]() ✅ | C++ | 5 | 100/100 | - |
 
 <br> 
 <p align="center"> 
