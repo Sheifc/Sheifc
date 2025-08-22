@@ -60,13 +60,13 @@
 | [So long](https://github.com/Sheifc/42cursus/tree/main/so_long) ✅ | 2D game development - C | 2 | 100/100 | no Bonus | 
 | [Philosophers](https://github.com/Sheifc/42cursus/tree/main/philo) ✅ | Management of threads with C | 3 | 100/100 | no Bonus |
 | [Exam - Rank 3]() ✅ | printf or get_next_line in C | 1 - 2 | 100/100 | - | 
-| [Minishell]() ✅ | Develop the bash shell with a partner in C | 3 | 125/100 | Bonus ✅ |
+| [Minishell](https://github.com/Sheifc/minishell) ✅ | Develop the bash shell with a partner in C | 3 | 125/100 | Bonus ✅ |
 | [Netpractice]() ✅ | Fix network connections between different Hosts, Routers, Switch, etc | 4 | 100/100 | - |
 | [Exam - Rank 4]() ✅ | Microshell in C | 4 | 100/100 | - |
 | [Cub3d](https://github.com/cadufrederiksen/Cub3d) ✅ | Develop a 3D game in C | 4 | 100/100 | no Bonus |
 | [C++]()  | Develop some functions C++ | 4 | Ongoing | - |
 | [Exam - Rank 5]() ✅ | C++ | 5 | 100/100 | - |
-| [IRC]() | This project is about creating your own IRC server in C++ | 5 | 125/100 | Bonus ✅ | 
+| [IRC]() | This project is about creating your own IRC server in group. C++ | 5 | 125/100 | Bonus ✅ | 
 | [Inception]() | System administration through the use of Docker technology in C | 5 | Ongoing | - |
 
 <br> 
