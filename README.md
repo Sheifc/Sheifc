@@ -63,7 +63,7 @@
 | [Minishell]() ✅ | Develop the bash shell with a partner | 3 | 125/100 | Bonus ✅ |
 | [Netpractice]() ✅ | Fix network connections between different Hosts, Routers, Switch, etc | 4 | 100/100 | - |
 | [Exam - Rank 4]() ✅ | Microshell | 4 | 100/100 | - |
-| [Cub3d]() ✅ | Develop a 3D game | 4 | 100/100 | no Bonus |
+| [Cub3d](https://github.com/cadufrederiksen/Cub3d) ✅ | Develop a 3D game | 4 | 100/100 | no Bonus |
 | [C++]()  | Develop some functions on C++ | 4 | Ongoing | - |
 
 <br> 
