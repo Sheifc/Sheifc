@@ -38,7 +38,7 @@
 ![My Skills](https://skillicons.dev/icons?i=aws,kali,docker,powershell,c,bash,python,r,vim,vscode,git,html,css,github)
 > :satellite: Networking - WireShark | Nmap | Netcat | Netstat  
 > :toolbox:  Ghidra | Metasploit | Radare2 | ExifTool | Binwalk | Maltego | VirusTotal  
-> :desktop_computer: Bash | R | C | Python | Powershell | HTML | CSS | HCL  
+> :desktop_computer: Bash | R | C | | C++ | Python | Powershell | HTML | CSS | HCL  
 > 📚 Python for DS and ML - NumPy | Pandas | Matplotlib | Seaborn | cv2 | os | Tensorflow - keras | sklearn | Transformers  
 > :hammer_and_wrench:  Git | GitHub | Docker | AWS | Terraform | Jira | Bitbucket  
 > :atom: Vim | RStudio | Visual Studio Code | Pycharm  
