@@ -38,12 +38,13 @@
         <figure><img src="https://github.com/user-attachments/assets/12b6b8a3-d15d-43a8-bd46-e8aab5f9eee0" alt="" width="150"><figcaption></figcaption></figure>
         <figure><img src="https://github.com/user-attachments/assets/c5e478e4-5d92-4d8e-8025-4f6c89640a5f" alt="" width="150"><figcaption></figcaption></figure>
         <figure><img src="https://github.com/user-attachments/assets/3b4508b4-487d-4cd2-a53a-b02b2c3fa6b2" alt="" width="150"><figcaption></figcaption></figure>
+        <figure><img src="https://github.com/user-attachments/assets/17f7302a-57e3-4ef5-baa9-d1176adeeae4" alt="" width="150"><figcaption></figcaption></figure>
+        <figure><img src="https://github.com/user-attachments/assets/2cde5671-a524-4b4f-a5bb-5b7e9c63a5de" alt="" width="150"><figcaption></figcaption></figure>
 
 </div> 
 
-[Pentesting](https://tryhackme.com/stylishack/badges/intro-to-pentesting) | [Metasploit](https://tryhackme.com/stylishack/badges/metasploitable) | [Network](https://tryhackme.com/stylishack/badges/network-fundamentals) | [OSINT](https://tryhackme.com/stylishack/badges/ohsint) 
+[Pentesting](https://tryhackme.com/stylishack/badges/intro-to-pentesting) | [Metasploit](https://tryhackme.com/stylishack/badges/metasploitable) | [Network](https://tryhackme.com/stylishack/badges/network-fundamentals) | [OSINT](https://tryhackme.com/stylishack/badges/ohsint) | [OWASP](https://tryhackme.com/stylishack/badges/owasp-10) | [Web](https://tryhackme.com/stylishack/badges/web-fund)  
 
-[OWASP](https://tryhackme.com/stylishack/badges/owasp-10) | [Web](https://tryhackme.com/stylishack/badges/web-fund)  
 [Web Hacking](https://tryhackme.com/stylishack/badges/intro-to-web-hacking) | [BurpSuite](https://tryhackme.com/stylishack/badges/burped) | [World Wide Web](https://tryhackme.com/stylishack/badges/world-wide-web)  
 [Linux](https://tryhackme.com/stylishack/badges/terminaled) | [Friday Fixer](https://tryhackme.com/stylishack/badges/friday-fixer)  
 
