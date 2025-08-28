@@ -33,6 +33,11 @@
 
 ---
 ## Badges earned
+<div>
+ <figure><img src="https://github.com/user-attachments/assets/8f7f4c97-17b8-40d3-ac9f-defe0d752602" alt="" width="150"><figcaption></figcaption></figure> 
+  <figure><img src="https://github.com/user-attachments/assets/8b536098-95c0-4a06-9f3f-07114e06d93c" alt="" width="150"><figcaption></figcaption></figure>
+<figure><img src="https://github.com/user-attachments/assets/c5e478e4-5d92-4d8e-8025-4f6c89640a5f" alt="" width="150"><figcaption></figcaption></figure>
+</div>div>  
 |:---------------------------------|:---------------------------------|:---------------------------------|  
 <img width="150" alt="Pentesting" src="https://github.com/user-attachments/assets/8f7f4c97-17b8-40d3-ac9f-defe0d752602" /> | <figure><img width="150" alt="Metasploit" src="https://github.com/user-attachments/assets/8b536098-95c0-4a06-9f3f-07114e06d93c"><figcaption></figcaption></figure> | <img width="150" alt="Networking" src="https://github.com/user-attachments/assets/c5e478e4-5d92-4d8e-8025-4f6c89640a5f" />
 
