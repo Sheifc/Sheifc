@@ -66,7 +66,7 @@
 | [Cub3d](https://github.com/cadufrederiksen/Cub3d) ✅ | Develop a 3D game in C | 4 | 100/100 | no Bonus |
 | [C++]() ✅ | Develop some functions C++ | 4 | 100/100 | Some Bonus ✅ |
 | [Exam - Rank 5]() ✅ | C++ | 5 | 100/100 | - |
-| [IRC]() | This project is about creating your own IRC server in group. C++ | 5 | 125/100 | Bonus ✅ | 
+| [IRC]() ✅ | This project is about creating your own IRC server in group. C++ | 5 | 125/100 | Bonus ✅ | 
 | [Inception]() | System administration through the use of Docker technology in C | 5 | Ongoing | - |
 
 <br> 
