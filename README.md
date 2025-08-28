@@ -99,7 +99,7 @@
 </table>
 <br>
 
-<img width="1218" height="1098" alt="intra" src="https://github.com/user-attachments/assets/a124e56a-5620-4832-87bc-0026190f6b41" />
+<img width="1389" height="1155" alt="intra" src="https://github.com/user-attachments/assets/df86058f-a4d2-4ffc-ab99-b1ef03da5da4" />
 
 ## ➡️ Contact me on: 
 [LinkedIn](https://www.linkedin.com/in/sheifc/)
