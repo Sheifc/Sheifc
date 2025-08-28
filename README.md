@@ -32,6 +32,11 @@
 </table>
 
 ---
+## Badges earned
+<div>
+https://tryhackme.com/stylishack/badges/network-fundamentals
+</div>
+---
 
 ## :fire: Technical Skills
 
