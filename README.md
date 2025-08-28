@@ -39,14 +39,20 @@
         <figure><img src="https://github.com/user-attachments/assets/c5e478e4-5d92-4d8e-8025-4f6c89640a5f" alt="" width="150"><figcaption></figcaption></figure>
         <figure><img src="https://github.com/user-attachments/assets/3b4508b4-487d-4cd2-a53a-b02b2c3fa6b2" alt="" width="150"><figcaption></figcaption></figure>
         <figure><img src="https://github.com/user-attachments/assets/17f7302a-57e3-4ef5-baa9-d1176adeeae4" alt="" width="150"><figcaption></figcaption></figure>
-        <figure><img src="https://github.com/user-attachments/assets/2cde5671-a524-4b4f-a5bb-5b7e9c63a5de" alt="" width="150"><figcaption></figcaption></figure>
-
+        <figure><img src="https://github.com/user-attachments/assets/8b84d6b6-9a92-419e-a578-d30754d56bbf" alt="" width="150"><figcaption></figcaption></figure>
 </div> 
 
 [Pentesting](https://tryhackme.com/stylishack/badges/intro-to-pentesting) | [Metasploit](https://tryhackme.com/stylishack/badges/metasploitable) | [Network](https://tryhackme.com/stylishack/badges/network-fundamentals) | [OSINT](https://tryhackme.com/stylishack/badges/ohsint) | [OWASP](https://tryhackme.com/stylishack/badges/owasp-10) | [Web](https://tryhackme.com/stylishack/badges/web-fund)  
 
-[Web Hacking](https://tryhackme.com/stylishack/badges/intro-to-web-hacking) | [BurpSuite](https://tryhackme.com/stylishack/badges/burped) | [World Wide Web](https://tryhackme.com/stylishack/badges/world-wide-web)  
-[Linux](https://tryhackme.com/stylishack/badges/terminaled) | [Friday Fixer](https://tryhackme.com/stylishack/badges/friday-fixer)  
+<div>
+        <figure><img src="https://github.com/user-attachments/assets/c9969c1b-1b8c-4b7f-b13b-39f193be7d7a" alt="" width="150"><figcaption></figcaption></figure>
+        <figure><img src="https://github.com/user-attachments/assets/66d7235f-014d-4ddc-972c-980ceb9e2b5a" alt="" width="150"><figcaption></figcaption></figure>
+        <figure><img src="https://github.com/user-attachments/assets/27bc2d88-9fa4-4305-94bc-92386f6c4ff3" alt="" width="150"><figcaption></figcaption></figure>
+        <figure><img src="https://github.com/user-attachments/assets/785cd13b-3631-49b2-982b-121fc71c6c2e" alt="" width="150"><figcaption></figcaption></figure>
+        <figure><img src="https://github.com/user-attachments/assets/4b567ec2-044c-44ad-8b44-af6dec9576c3" alt="" width="150"><figcaption></figcaption></figure>
+</div> 
+
+[Web Hacking](https://tryhackme.com/stylishack/badges/intro-to-web-hacking) | [BurpSuite](https://tryhackme.com/stylishack/badges/burped) | [World Wide Web](https://tryhackme.com/stylishack/badges/world-wide-web) | [Linux](https://tryhackme.com/stylishack/badges/terminaled) | [Friday Fixer](https://tryhackme.com/stylishack/badges/friday-fixer)  
 
 ---
 
