@@ -32,7 +32,7 @@
 </table>
 
 ---
-## Badges earned
+## 👩‍🎓 Badges Earned
 <div>
         <figure><img src="https://github.com/user-attachments/assets/8f7f4c97-17b8-40d3-ac9f-defe0d752602" alt="" width="150"><figcaption></figcaption></figure> 
         <figure><img src="https://github.com/user-attachments/assets/12b6b8a3-d15d-43a8-bd46-e8aab5f9eee0" alt="" width="150"><figcaption></figcaption></figure>
