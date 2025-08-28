@@ -34,7 +34,17 @@
 ---
 ## Badges earned
 <div>
-https://tryhackme.com/stylishack/badges/network-fundamentals
+[Pentesting](https://tryhackme.com/stylishack/badges/intro-to-pentesting)
+[Metasploit](https://tryhackme.com/stylishack/badges/metasploitable)
+[Network](https://tryhackme.com/stylishack/badges/network-fundamentals)
+[OSINT](https://tryhackme.com/stylishack/badges/ohsint)
+[OWASP](https://tryhackme.com/stylishack/badges/owasp-10)
+[Web](https://tryhackme.com/stylishack/badges/web-fund)
+[Web Hacking](https://tryhackme.com/stylishack/badges/intro-to-web-hacking)
+[BurpSuite](https://tryhackme.com/stylishack/badges/burped)
+[World Wide Web](https://tryhackme.com/stylishack/badges/world-wide-web)
+[Linux](https://tryhackme.com/stylishack/badges/terminaled)
+[Friday Fixer](https://tryhackme.com/stylishack/badges/friday-fixer)
 </div>
 ---
 
@@ -55,7 +65,7 @@ https://tryhackme.com/stylishack/badges/network-fundamentals
 ## Software development 👩‍💻 - 42 The Network - cursus projects: 👉 [Here](https://github.com/Sheifc/42cursus/tree/main)
 |	Name                                               |	Description                                    | Level | Qualifications | Bonus |
 |:--------------------------------------------------|:----------------------------------------------|:-----:|:----------------:|:----------------:|
-|	[Libft](https://github.com/Sheifc/42cursus/tree/main/libft) ✅ |  Library development of 43 system functions in C      | 0 | 125/100 | Bonus ✅ |
+| [Libft](https://github.com/Sheifc/42cursus/tree/main/libft) ✅ |  Library development of 43 system functions in C      | 0 | 125/100 | Bonus ✅ |
 | [Printf](https://github.com/Sheifc/42cursus/tree/main/printf) ✅ | Printf function development with variatic variables in C | 1 | 100/100 | no Bonus |
 | [Get next line](https://github.com/Sheifc/42cursus/tree/main/GNL) ✅ | Memory management with arrays & static variables in C | 1 | 125/100 | Bonus ✅ |
 | [Born2beroot](https://github.com/Sheifc/42cursus/tree/main/Born2beroot) ✅ | Admin System and virtualisation and encryptation| 1 | 125/100 | Bonus ✅ |
