@@ -117,7 +117,7 @@
 </table>
 <br>
 
-<img width="1389" height="1155" alt="intra" src="https://github.com/user-attachments/assets/df86058f-a4d2-4ffc-ab99-b1ef03da5da4" />
+<img width="1349" height="1217" alt="intra" src="https://github.com/user-attachments/assets/8a41b59d-c73a-4841-8480-3623c6c049ce" />
 
 ## ➡️ Contact me on: 
 [LinkedIn](https://www.linkedin.com/in/sheifc/)
