@@ -49,7 +49,7 @@
 
 </div> 
 
-[Pentesting](https://tryhackme.com/stylishack/badges/intro-to-pentesting) | [Metasploit](https://tryhackme.com/stylishack/badges/metasploitable) | [Network](https://tryhackme.com/stylishack/badges/network-fundamentals) | [OSINT](https://tryhackme.com/stylishack/badges/ohsint) | [OWASP](https://tryhackme.com/stylishack/badges/owasp-10) | [Web](https://tryhackme.com/stylishack/badges/web-fund) | [Web Hacking](https://tryhackme.com/stylishack/badges/intro-to-web-hacking) | [BurpSuite](https://tryhackme.com/stylishack/badges/burped) | [World Wide Web](https://tryhackme.com/stylishack/badges/world-wide-web) | [Linux](https://tryhackme.com/stylishack/badges/terminaled) | [Friday Fixer](https://tryhackme.com/stylishack/badges/friday-fixer)  
+[Pentesting](https://tryhackme.com/stylishack/badges/intro-to-pentesting) | [Metasploit](https://tryhackme.com/stylishack/badges/metasploitable) | [Network](https://tryhackme.com/stylishack/badges/network-fundamentals) | [OSINT](https://tryhackme.com/stylishack/badges/ohsint) | [OWASP](https://tryhackme.com/stylishack/badges/owasp-10) | [Web](https://tryhackme.com/stylishack/badges/web-fund) | [Web Hacking](https://tryhackme.com/stylishack/badges/intro-to-web-hacking) | [BurpSuite](https://tryhackme.com/stylishack/badges/burped) | [World Wide Web](https://tryhackme.com/stylishack/badges/world-wide-web) | [Linux](https://tryhackme.com/stylishack/badges/terminaled) | [Friday Fixer](https://tryhackme.com/stylishack/badges/friday-fixer)  | [Mr. Robot](https://tryhackme.com/stylishack/badges/mr-robot)
 
 ---
 
