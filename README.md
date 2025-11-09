@@ -13,7 +13,7 @@
 ---
 
 ### <p align="center">Experienced in Data & AI, Expanding into Cybersecurity</p>
-### <p align="center">AI League Leader and Cybersecurity League Developer at 42 Malaga</p>
+### <p align="center">Former AI League Leader and Cybersecurity League Developer at 42 Malaga</p>
 
 ---
 
