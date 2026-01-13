@@ -13,11 +13,12 @@
 ---
 
 ### <p align="center">Experienced in Data & AI, Expanding into Cybersecurity</p>
+### <p align="center">Specialised in Malware Analysis and Intelligence</p>
 ### <p align="center">Former AI League Leader and Cybersecurity League Developer at 42 Malaga</p>
 
 ---
-
-## <p align="center">👩‍💻 My Cybersecurity journey: 👉 [Here](https://github.com/Sheifc/Cybersecurity) </p>
+## <p align="center">👩‍💻 TryHackMe Writeups: 👉 [Here](https://github.com/Sheifc/TryHackMe) </p>
+## <p align="center">👩‍💻 SOC N1 Training: 👉 [Here](https://github.com/Sheifc/Cybersecurity) </p>
 
 <table style="width:100%">
   <tr>
