@@ -89,7 +89,7 @@
 | [C++](https://github.com/Sheifc/Cpp) ✅ | Develop some functions C++ | 4 | 100/100 | Some Bonus ✅ |
 | [Exam - Rank 5]() ✅ | C++ | 5 | 100/100 | - |
 | [IRC](https://github.com/Sheifc/IRC) ✅ | This project is about creating your own IRC server in group. C++ | 5 | 125/100 | Bonus ✅ | 
-| [Inception](https://github.com/Sheifc/Inception5.0) | System administration through the use of Docker technology in C++ | 5 | 125/100 | Bonus ✅ |
+| [Inception](https://github.com/Sheifc/Inception5.0) | System administration through the use of Docker technology | 5 | 125/100 | Bonus ✅ |
 | [Exam - Rank 6]() | IRC in C++ | 6 | Ongoing | - |
 | [Transcendence]() | Final Huge Project in group | 6 | Ongoing | - |
 
