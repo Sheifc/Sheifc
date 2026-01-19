@@ -46,8 +46,10 @@
         <figure><img src="https://github.com/user-attachments/assets/27bc2d88-9fa4-4305-94bc-92386f6c4ff3" alt="" width="150"><figcaption></figcaption></figure>
         <figure><img src="https://github.com/user-attachments/assets/785cd13b-3631-49b2-982b-121fc71c6c2e" alt="" width="150"><figcaption></figcaption></figure>
         <figure><img src="https://github.com/user-attachments/assets/4b567ec2-044c-44ad-8b44-af6dec9576c3" alt="" width="150"><figcaption></figcaption></figure>
-        <figure><img src="https://github.com/user-attachments/assets/5cb5b21e-bede-403b-a9b4-11b0d1905955" alt="" width="150"><figcaption></figcaption></figure>
         <figure><img src="https://github.com/user-attachments/assets/6853629d-e3d4-433b-b309-ae3b616675b7" alt="" width="150"><figcaption></figcaption></figure>
+        <figure><img src="https://github.com/user-attachments/assets/9b212154-975c-4690-98a5-df19669c5415" alt="" width="150"><figcaption></figcaption></figure>
+        <figure><img src="https://github.com/user-attachments/assets/1a7c4294-62fd-42db-ba24-343864fd96c4" alt="" width="150"><figcaption></figcaption></figure>
+        <figure><img src="https://github.com/user-attachments/assets/df64a981-811c-4ca0-82cd-cc0148b25b57" alt="" width="150"><figcaption></figcaption></figure> 
 </div> 
 
 [Pentesting](https://tryhackme.com/stylishack/badges/intro-to-pentesting) | [Metasploit](https://tryhackme.com/stylishack/badges/metasploitable) | [Network](https://tryhackme.com/stylishack/badges/network-fundamentals) | [OSINT](https://tryhackme.com/stylishack/badges/ohsint) | [OWASP](https://tryhackme.com/stylishack/badges/owasp-10) | [Web](https://tryhackme.com/stylishack/badges/web-fund) | [Web Hacking](https://tryhackme.com/stylishack/badges/intro-to-web-hacking) | [BurpSuite](https://tryhackme.com/stylishack/badges/burped) | [World Wide Web](https://tryhackme.com/stylishack/badges/world-wide-web) | [Linux](https://tryhackme.com/stylishack/badges/terminaled) | [Friday Fixer](https://tryhackme.com/stylishack/badges/friday-fixer)  | [Mr. Robot](https://tryhackme.com/stylishack/badges/mr-robot)
