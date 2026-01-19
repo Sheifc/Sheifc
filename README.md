@@ -35,6 +35,10 @@
 ---
 ## 👩‍🎓 Badges Earned
 <div>
+        <figure><img src="https://github.com/user-attachments/assets/df64a981-811c-4ca0-82cd-cc0148b25b57" alt="" width="150"><figcaption></figcaption></figure>
+        <figure><img src="https://github.com/user-attachments/assets/1a7c4294-62fd-42db-ba24-343864fd96c4" alt="" width="150"><figcaption></figcaption></figure>
+        <figure><img src="https://github.com/user-attachments/assets/9b212154-975c-4690-98a5-df19669c5415" alt="" width="150"><figcaption></figcaption></figure>
+        <figure><img src="https://github.com/user-attachments/assets/6853629d-e3d4-433b-b309-ae3b616675b7" alt="" width="150"><figcaption></figcaption></figure>
         <figure><img src="https://github.com/user-attachments/assets/8f7f4c97-17b8-40d3-ac9f-defe0d752602" alt="" width="150"><figcaption></figcaption></figure> 
         <figure><img src="https://github.com/user-attachments/assets/12b6b8a3-d15d-43a8-bd46-e8aab5f9eee0" alt="" width="150"><figcaption></figcaption></figure>
         <figure><img src="https://github.com/user-attachments/assets/c5e478e4-5d92-4d8e-8025-4f6c89640a5f" alt="" width="150"><figcaption></figcaption></figure>
@@ -46,10 +50,6 @@
         <figure><img src="https://github.com/user-attachments/assets/27bc2d88-9fa4-4305-94bc-92386f6c4ff3" alt="" width="150"><figcaption></figcaption></figure>
         <figure><img src="https://github.com/user-attachments/assets/785cd13b-3631-49b2-982b-121fc71c6c2e" alt="" width="150"><figcaption></figcaption></figure>
         <figure><img src="https://github.com/user-attachments/assets/4b567ec2-044c-44ad-8b44-af6dec9576c3" alt="" width="150"><figcaption></figcaption></figure>
-        <figure><img src="https://github.com/user-attachments/assets/6853629d-e3d4-433b-b309-ae3b616675b7" alt="" width="150"><figcaption></figcaption></figure>
-        <figure><img src="https://github.com/user-attachments/assets/9b212154-975c-4690-98a5-df19669c5415" alt="" width="150"><figcaption></figcaption></figure>
-        <figure><img src="https://github.com/user-attachments/assets/1a7c4294-62fd-42db-ba24-343864fd96c4" alt="" width="150"><figcaption></figcaption></figure>
-        <figure><img src="https://github.com/user-attachments/assets/df64a981-811c-4ca0-82cd-cc0148b25b57" alt="" width="150"><figcaption></figcaption></figure> 
 </div> 
 
 [Pentesting](https://tryhackme.com/stylishack/badges/intro-to-pentesting) | [Metasploit](https://tryhackme.com/stylishack/badges/metasploitable) | [Network](https://tryhackme.com/stylishack/badges/network-fundamentals) | [OSINT](https://tryhackme.com/stylishack/badges/ohsint) | [OWASP](https://tryhackme.com/stylishack/badges/owasp-10) | [Web](https://tryhackme.com/stylishack/badges/web-fund) | [Web Hacking](https://tryhackme.com/stylishack/badges/intro-to-web-hacking) | [BurpSuite](https://tryhackme.com/stylishack/badges/burped) | [World Wide Web](https://tryhackme.com/stylishack/badges/world-wide-web) | [Linux](https://tryhackme.com/stylishack/badges/terminaled) | [Friday Fixer](https://tryhackme.com/stylishack/badges/friday-fixer)  | [Mr. Robot](https://tryhackme.com/stylishack/badges/mr-robot)
