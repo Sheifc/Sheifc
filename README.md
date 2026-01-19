@@ -47,7 +47,7 @@
         <figure><img src="https://github.com/user-attachments/assets/785cd13b-3631-49b2-982b-121fc71c6c2e" alt="" width="150"><figcaption></figcaption></figure>
         <figure><img src="https://github.com/user-attachments/assets/4b567ec2-044c-44ad-8b44-af6dec9576c3" alt="" width="150"><figcaption></figcaption></figure>
         <figure><img src="https://github.com/user-attachments/assets/5cb5b21e-bede-403b-a9b4-11b0d1905955" alt="" width="150"><figcaption></figcaption></figure>
-
+        <figure><img src="https://github.com/user-attachments/assets/6853629d-e3d4-433b-b309-ae3b616675b7" alt="" width="150"><figcaption></figcaption></figure>
 </div> 
 
 [Pentesting](https://tryhackme.com/stylishack/badges/intro-to-pentesting) | [Metasploit](https://tryhackme.com/stylishack/badges/metasploitable) | [Network](https://tryhackme.com/stylishack/badges/network-fundamentals) | [OSINT](https://tryhackme.com/stylishack/badges/ohsint) | [OWASP](https://tryhackme.com/stylishack/badges/owasp-10) | [Web](https://tryhackme.com/stylishack/badges/web-fund) | [Web Hacking](https://tryhackme.com/stylishack/badges/intro-to-web-hacking) | [BurpSuite](https://tryhackme.com/stylishack/badges/burped) | [World Wide Web](https://tryhackme.com/stylishack/badges/world-wide-web) | [Linux](https://tryhackme.com/stylishack/badges/terminaled) | [Friday Fixer](https://tryhackme.com/stylishack/badges/friday-fixer)  | [Mr. Robot](https://tryhackme.com/stylishack/badges/mr-robot)
