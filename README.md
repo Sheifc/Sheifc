@@ -59,7 +59,7 @@
 ## :fire: Technical Skills
 
 ![My Skills](https://skillicons.dev/icons?i=aws,kali,docker,powershell,c,bash,python,r,vim,vscode,git,html,css,github)
-> 🦠 Malware Analysis - IDAPro | Assembly x86 | Cuckoo, CAPE, Any.Run, Virus Total | Procmon, Process Explorer | Portex, PeFrame, CFF, Pestudio | Shellter, Scylla, Themida, VM Obfuscation | 010 Editor | Frida | VirusTotal | Google Threat Intelligence 
+> 🦠 Malware Analysis - IDAPro | Assembly x86 | Cuckoo, CAPE, Any.Run | Procmon, Process Explorer | Portex, PeFrame, CFF, Pestudio | Shellter, Scylla, Themida, VM Obfuscation | 010 Editor | Frida | VirusTotal | Google Threat Intelligence 
 > :satellite: Networking - WireShark | Nmap | Netcat | Netstat  
 > :toolbox:  Ghidra | Metasploit | Radare2 | ExifTool | Binwalk | Maltego  
 > :desktop_computer: Bash | R | C | | C++ | Python | Powershell | HTML | CSS | HCL  
