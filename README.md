@@ -124,10 +124,10 @@
    </tr>
 </table>
 
-<br><img width="1711" height="1467" alt="intra" src="https://github.com/user-attachments/assets/3867698a-47c2-4d5b-a43f-f63e62afc67e" />
+<br><img width="1711" height="1467" alt="intra" src="" />
 
 
-<img width="1349" height="1217" alt="intra" src="" />
+<img width="1349" height="1217" alt="intra" src="https://github.com/user-attachments/assets/3867698a-47c2-4d5b-a43f-f63e62afc67e" />
 
 ## ➡️ Contact me on: 
 [LinkedIn](https://www.linkedin.com/in/sheifc/)
