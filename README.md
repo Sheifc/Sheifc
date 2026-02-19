@@ -95,11 +95,7 @@
 | [Exam - Rank 6]() | IRC in C++ | 6 | Ongoing | - |
 | [Transcendence]() | Final Huge Project in group | 6 | Ongoing | - |
 
-<br> 
-<p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sheifc&layout=compact&theme=dark&hide_border=true" />
-</p>
-<br>
+
 <br> 
 <table style="width:100%">
   <tr>
