@@ -120,7 +120,7 @@
    </tr>
 </table>
 
-<img width="1349" height="1217" alt="intra" src="https://github.com/user-attachments/assets/3867698a-47c2-4d5b-a43f-f63e62afc67e" />
+<img width="1349" height="1217" alt="intra" src="https://github.com/user-attachments/assets/c7b8d8bd-f767-433b-be9a-024cb6930a2b" />
 
 ## ➡️ Contact me on: 
 [LinkedIn](https://www.linkedin.com/in/sheifc/)
