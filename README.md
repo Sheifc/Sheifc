@@ -1,3 +1,5 @@
+<img width="731" height="659" alt="circulo" src="https://github.com/user-attachments/assets/be5f2222-a086-4768-828b-7120d1022d7d" />
+<img width="731" height="659" alt="circulo" src="https://github.com/user-attachments/assets/755a9083-2d36-4b24-8d34-7bd948b64f4a" />
 <p align="center"><img width=15%" src="" alt="" /></p>
 
 # <p align="center">Hi there 👋 it's Sheila 🤗</p>
@@ -120,7 +122,7 @@
    </tr>
 </table>
 
-<img width="1349" height="1217" alt="intra" src="https://github.com/user-attachments/assets/c7b8d8bd-f767-433b-be9a-024cb6930a2b" />
+<img width="1349" height="1217" alt="intra" src="https://github.com/user-attachments/assets/cc2d9623-e114-4da9-9d53-1c9c267c30c7" />
 
 ## ➡️ Contact me on: 
 [LinkedIn](https://www.linkedin.com/in/sheifc/)
