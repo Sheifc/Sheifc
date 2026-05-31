@@ -1,5 +1,3 @@
-<img width="731" height="659" alt="circulo" src="https://github.com/user-attachments/assets/be5f2222-a086-4768-828b-7120d1022d7d" />
-<img width="731" height="659" alt="circulo" src="https://github.com/user-attachments/assets/755a9083-2d36-4b24-8d34-7bd948b64f4a" />
 <p align="center"><img width=15%" src="" alt="" /></p>
 
 # <p align="center">Hi there 👋 it's Sheila 🤗</p>
