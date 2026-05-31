@@ -92,8 +92,8 @@
 | [Exam - Rank 5]() ✅ | C++ | 5 | 100/100 | - |
 | [IRC](https://github.com/Sheifc/IRC) ✅ | This project is about creating your own IRC server in group. C++ | 5 | 125/100 | Bonus ✅ | 
 | [Inception](https://github.com/Sheifc/Inception5.0) ✅ | System administration through the use of Docker technology | 5 | 125/100 | Bonus ✅ |
-| [Exam - Rank 6]() | IRC in C++ | 6 | Ongoing | - |
-| [Transcendence]() | Web Project in group of 5 | 6 | Ongoing | - |
+| [Exam - Rank 6]() ✅ | IRC in C++ | 6 | 100/100 | - |
+| [Transcendence]() ✅| Film review website | 6 | 120/100 | Bonus ✅ |
 
 
 <br> 
