@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="250" viewBox="0 0 900 250" role="img" aria-label="I used to look for life under a microscope. Now I hunt malware.">
+<rect width="900" height="250" rx="14" fill="#0d1117"/>
+<text x="450" y="52" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="23" fill="#e6edf3">I used to look for life under a microscope.</text>
+<text x="450" y="86" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="23" font-weight="700" fill="#6cc0cb">Now I hunt malware.</text>
+<line x1="90" y1="150" x2="810" y2="150" stroke="#2c3b40" stroke-width="2" stroke-dasharray="6 6"/>
+<circle cx="90" cy="150" r="27" fill="#16292d" stroke="#6cc0cb" stroke-width="2"/>
+<circle cx="90" cy="150" r="14" fill="none" stroke="#6cc0cb" stroke-width="2"/>
+<circle cx="85" cy="146" r="4" fill="#6cc0cb" opacity=".75"/>
+<circle cx="95" cy="147" r="4" fill="#6cc0cb" opacity=".75"/>
+<circle cx="90" cy="156" r="4" fill="#6cc0cb" opacity=".75"/>
+<text x="90" y="202" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" font-weight="600" fill="#e6edf3">Clinical labs · NHS</text>
+<text x="90" y="222" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11.5" fill="#8b9aa0">2010–2022</text>
+<circle cx="270" cy="150" r="27" fill="#16292d" stroke="#6cc0cb" stroke-width="2"/>
+<rect x="259" y="151" width="6" height="9" rx="1" fill="#6cc0cb"/>
+<rect x="267" y="145" width="6" height="15" rx="1" fill="#6cc0cb"/>
+<rect x="275" y="139" width="6" height="21" rx="1" fill="#6cc0cb"/>
+<text x="270" y="202" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" font-weight="600" fill="#e6edf3">Data &amp; AI</text>
+<text x="270" y="222" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11.5" fill="#8b9aa0">2021–2024</text>
+<circle cx="450" cy="150" r="27" fill="#16292d" stroke="#6cc0cb" stroke-width="2"/>
+<text x="450" y="156" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="16" font-weight="700" fill="#6cc0cb">&lt;/&gt;</text>
+<text x="450" y="202" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" font-weight="600" fill="#e6edf3">Software</text>
+<text x="450" y="222" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11.5" fill="#8b9aa0">42 Málaga</text>
+<circle cx="630" cy="150" r="27" fill="#16292d" stroke="#6cc0cb" stroke-width="2"/>
+<path d="M630 136 L641 141 V151 C641 158 635 162 630 164 C625 162 619 158 619 151 V141 Z" fill="none" stroke="#6cc0cb" stroke-width="2.2" stroke-linejoin="round"/>
+<text x="630" y="202" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" font-weight="600" fill="#e6edf3">Cybersecurity</text>
+<text x="630" y="222" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11.5" fill="#8b9aa0">2024–2026</text>
+<circle cx="810" cy="150" r="27" fill="#6cc0cb" stroke="#6cc0cb" stroke-width="2"/>
+<rect x="799" y="139" width="6" height="6" rx="1" fill="#0d1117"/>
+<rect x="807" y="139" width="6" height="6" rx="1" fill="#0d1117"/>
+<rect x="815" y="139" width="6" height="6" rx="1" fill="#0d1117"/>
+<rect x="799" y="147" width="6" height="6" rx="1" fill="#0d1117"/>
+<rect x="807" y="147" width="6" height="6" rx="1" fill="#0d1117"/>
+<rect x="815" y="147" width="6" height="6" rx="1" fill="#e0a45a"/>
+<rect x="799" y="155" width="6" height="6" rx="1" fill="#0d1117"/>
+<rect x="807" y="155" width="6" height="6" rx="1" fill="#0d1117"/>
+<rect x="815" y="155" width="6" height="6" rx="1" fill="#0d1117"/>
+<text x="810" y="202" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" font-weight="600" fill="#e6edf3">AI agents &amp; intel</text>
+<text x="810" y="222" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11.5" fill="#e0a45a">now</text>
+</svg>
