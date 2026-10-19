@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="300" viewBox="0 0 960 300" role="img" aria-label="sheila.sample analysis report: 0 of 12 engines flagged this sample">
+<rect x="1" y="1" width="958" height="298" rx="12" fill="#131d20" stroke="#24353a"/>
+<circle cx="112" cy="122" r="62" fill="none" stroke="#16301f" stroke-width="12"/>
+<circle cx="112" cy="122" r="62" fill="none" stroke="#5fcf8e" stroke-width="12" stroke-linecap="round" stroke-dasharray="389.6" stroke-dashoffset="0" transform="rotate(-90 112 122)"/>
+<text x="112" y="134" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="46" font-weight="700" fill="#5fcf8e">0</text>
+<text x="112" y="158" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14" fill="#93a5aa">/ 12</text>
+<rect x="212" y="30" width="372" height="26" rx="5" fill="#16301f"/>
+<text x="224" y="48" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" font-weight="600" fill="#5fcf8e">✓ No engine flagged this sample as malicious</text>
+<text x="212" y="96" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="32" font-weight="700" fill="#e2ebed">sheila.sample</text>
+<text x="212" y="124" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" font-weight="600" fill="#e2ebed">Data &amp; Research Manager · Healthcare &amp; Biomedicine (NHS)</text>
+<text x="212" y="146" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" fill="#e2ebed">AI · Malware &amp; Cyber Intelligence · Software</text>
+<text x="212" y="170" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11.5" fill="#93a5aa">SHA-256 3e9bac0e36d08649fafe99be9a9be1094350993dcec480bd79554fb4011ad771</text>
+<rect x="212" y="182" width="35" height="22" rx="4" fill="#1a3136"/>
+<text x="219" y="197" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11.5" fill="#e2ebed">nhs</text>
+<rect x="253" y="182" width="91" height="22" rx="4" fill="#1a3136"/>
+<text x="260" y="197" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11.5" fill="#e2ebed">biomedicine</text>
+<rect x="350" y="182" width="119" height="22" rx="4" fill="#1a3136"/>
+<text x="357" y="197" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11.5" fill="#e2ebed">data-management</text>
+<rect x="475" y="182" width="28" height="22" rx="4" fill="#1a3136"/>
+<text x="482" y="197" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11.5" fill="#e2ebed">ai</text>
+<rect x="509" y="182" width="84" height="22" rx="4" fill="#1a3136"/>
+<text x="516" y="197" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11.5" fill="#e2ebed">agentic-ai</text>
+<rect x="599" y="182" width="63" height="22" rx="4" fill="#1a3136"/>
+<text x="606" y="197" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11.5" fill="#e2ebed">malware</text>
+<rect x="668" y="182" width="91" height="22" rx="4" fill="#1a3136"/>
+<text x="675" y="197" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11.5" fill="#e2ebed">cyber-intel</text>
+<rect x="765" y="182" width="91" height="22" rx="4" fill="#1a3136"/>
+<text x="772" y="197" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11.5" fill="#e2ebed">reverse-eng</text>
+<rect x="862" y="182" width="56" height="22" rx="4" fill="#1a3136"/>
+<text x="869" y="197" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11.5" fill="#e2ebed">python</text>
+<line x1="1" y1="226" x2="959" y2="226" stroke="#24353a"/>
+<text x="23" y="254" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11" letter-spacing="1.2" fill="#93a5aa">TYPE</text>
+<text x="23" y="277" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14.5" font-weight="600" fill="#e2ebed">Healthcare → AI &amp; security</text>
+<line x1="240" y1="226" x2="240" y2="299" stroke="#24353a"/>
+<text x="262" y="254" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11" letter-spacing="1.2" fill="#93a5aa">ORIGIN</text>
+<text x="262" y="277" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14.5" font-weight="600" fill="#e2ebed">Clinical labs · NHS research</text>
+<line x1="480" y1="226" x2="480" y2="299" stroke="#24353a"/>
+<text x="502" y="254" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11" letter-spacing="1.2" fill="#93a5aa">NOW</text>
+<text x="502" y="277" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14.5" font-weight="600" fill="#e2ebed">Agentic AI R&amp;D team lead</text>
+<line x1="720" y1="226" x2="720" y2="299" stroke="#24353a"/>
+<text x="742" y="254" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11" letter-spacing="1.2" fill="#93a5aa">LAST ANALYSIS</text>
+<text x="742" y="277" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14.5" font-weight="600" fill="#e2ebed">October 2026</text>
+</svg>
