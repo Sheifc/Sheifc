@@ -50,7 +50,7 @@
 
 ## 🧭 How I got here
 
-### 01 · The lab &nbsp;<sub>2010–2022 · Spain, Mexico, UK</sub>
+### 01 · The lab &nbsp;<sub>2010–2022</sub>
 
 Ten years in clinical laboratories and **biomedical research**, ending as a senior clinical scientist in the **NHS** and as a laboratory director. That's where I learned that every sample has to be traceable and every result auditable.
 
