@@ -1,7 +1,7 @@
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/story-header-dark.svg">
-    <img src="assets/story-header-light.svg" width="900" alt="I used to look for life under a microscope. Now I hunt malware in memory. Clinical labs and NHS, data and AI, software, cybersecurity, memory and agents.">
+    <source media="(prefers-color-scheme: dark)" srcset="assets/journey-header-dark.svg">
+    <img src="assets/journey-header-light.svg" width="900" alt="I used to look for life under a microscope. Now I hunt malware. Clinical labs and NHS, data and AI, software, cybersecurity, AI agents and intel.">
   </picture>
 </p>
 
@@ -25,16 +25,18 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/Sheifc/memhunter">🧠 memhunter</a></h3>
-      Memory forensics microservice for malware sandboxes. It downloads process memory dumps, carves decrypted <b>C2 configurations</b>, Discord/Telegram webhooks, crypto-clipper wallets and dead-drop resolvers, writes a JSON + Markdown intel report, then deletes the raw dumps.
+      <h3>📱 Automated mobile app analysis</h3>
+      A pipeline that automates the analysis of mobile applications, so suspicious apps go from sample to analyst-ready findings without manual steps.
       <br><br>
-      <code>Python</code> <code>memory forensics</code> <code>threat intel</code> <code>C2</code>
+      <code>Android</code> <code>malware analysis</code> <code>automation</code>
+      <br><sub>🔒 private for now</sub>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/Sheifc/kinetic-memhunter">⚡ kinetic-memhunter</a></h3>
-      In-memory forensics engine for process dumps. It detects <b>cryptographic primitives</b>, carves injected and reflective <b>PE files</b> and staged archives, and extracts stealer artefacts at scale from cloud storage.
+      <h3>🕵️ Dark-web forum monitoring</h3>
+      Continuous monitoring of dark-web forums to turn underground chatter into actionable cyber threat intelligence.
       <br><br>
-      <code>Python</code> <code>minidump</code> <code>PE carving</code> <code>cloud</code>
+      <code>threat intel</code> <code>dark web</code> <code>OSINT</code>
+      <br><sub>🔒 private for now</sub>
     </td>
   </tr>
   <tr>
@@ -90,9 +92,9 @@ SOC, detection engineering and threat intelligence, then **Android malware rever
 | [Networking-Cisco](https://github.com/Sheifc/Networking-Cisco) | A full networking course with Cisco Packet Tracer exercises |
 | [Guide-Nested-Virtualisation-Windows11](https://github.com/Sheifc/Guide-Nested-Virtualisation-Windows11) | How to set up nested virtualisation on Windows for analysis labs |
 
-### 05 · The memory &nbsp;<sub>now</sub>
+### 05 · The agents &nbsp;<sub>now</sub>
 
-Today I lead an **R&D team building agentic AI for cybersecurity**, and I build the memory-forensics tools at the top of this page. The work is the same as in the lab: find what's hidden in the sample, and prove it.
+Today I lead an **R&D team building agentic AI for cybersecurity**, and I build the automation and intelligence projects at the top of this page. The work is the same as in the lab: find what's hidden in the sample, and prove it.
 
 ---
 
