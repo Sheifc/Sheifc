@@ -53,6 +53,21 @@
   <tr><td>🤖 <b>The agents</b></td><td><sub>now</sub></td><td>Leading an R&amp;D team building agentic AI for cybersecurity</td></tr>
 </table>
 
+## 🔭 Forks I study
+
+<table>
+  <tr>
+    <th>🤖 Agentic AI for security</th>
+    <th>📱 Android reversing</th>
+    <th>🦠 Malware, DFIR &amp; CTF</th>
+  </tr>
+  <tr valign="top">
+    <td><a href="https://github.com/Sheifc/agentic-malware-analysis">agentic-malware-analysis</a><br><a href="https://github.com/Sheifc/ida-pro-mcp">ida-pro-mcp</a><br><a href="https://github.com/Sheifc/security-audit-skill">security-audit-skill</a><br><a href="https://github.com/Sheifc/skills_talk_agent_camp_2026">skills_talk_agent_camp_2026</a></td>
+    <td><a href="https://github.com/Sheifc/androgoat">androgoat</a><br><a href="https://github.com/Sheifc/allsafe-android">allsafe-android</a><br><a href="https://github.com/Sheifc/tricks-pentest-android-and-ios-applications">tricks-pentest-android-and-ios-applications</a><br><a href="https://github.com/Sheifc/fridump">fridump</a></td>
+    <td><a href="https://github.com/Sheifc/flare-learning-hub">flare-learning-hub</a><br><a href="https://github.com/Sheifc/blue_team_hunting_field_notes">blue_team_hunting_field_notes</a><br><a href="https://github.com/Sheifc/DFIR-Volatility-Commands">DFIR-Volatility-Commands</a><br><a href="https://github.com/Sheifc/nnctf2025_writeups">nnctf2025_writeups</a></td>
+  </tr>
+</table>
+
 ## 🧰 Toolbox
 
 <p>
