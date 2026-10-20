@@ -21,7 +21,7 @@
   <tr>
     <td width="50%" valign="top">
       <br>
-      <h3>📱 <b>Automated mobile app analysis</b></h3>
+      <h3>📱 <b>Automated mobile app reversing</b></h3>
       From suspicious app to analyst-ready findings, automatically.<br><br>
       <code>Android</code> <code>automation</code>
       <br><br>
