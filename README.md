@@ -23,14 +23,18 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      📱 <b>Automated mobile app analysis</b><br>
-      From suspicious app to analyst-ready findings, automatically.<br>
+      <br>
+      <h3>📱 <b>Automated mobile app analysis</b></h3>
+      From suspicious app to analyst-ready findings, automatically.<br><br>
       <code>Android</code> <code>automation</code>
+      <br><br>
     </td>
     <td width="50%" valign="top">
-      🕵️ <b>Dark-web forum monitoring</b><br>
-      Underground chatter turned into threat intelligence.<br>
+      <br>
+      <h3>🕵️ <b>Dark-web forum monitoring</b></h3>
+      Underground chatter turned into threat intelligence.<br><br>
       <code>CTI</code> <code>OSINT</code>
+      <br><br>
     </td>
   </tr>
   <tr>
