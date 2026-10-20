@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/timeline-header-dark.svg" width="900" alt="I used to look for life under a microscope. Now I hunt malware. Clinical labs and NHS, data and AI, software, cybersecurity, AI agents and intel.">
+  <img src="assets/header-v2-dark.svg" width="900" alt="I used to look for life under a microscope. Now I hunt malware. Clinical labs and NHS, data and AI, software, cybersecurity, AI agents and intel.">
 </p>
 
 <p align="center">
