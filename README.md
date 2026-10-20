@@ -53,7 +53,7 @@
   <tr><td>📊 <b>The data</b></td><td><sub>2021–2024</sub></td><td><a href="https://github.com/Sheifc/Bioinformatics-and-Biostatistics-Master">Bioinformatics MSc</a> · <a href="https://github.com/Sheifc/KNN-Algorithm-applied-to-Promotor-Sequences-of-E.Coli">KNN on E. coli DNA</a> · <a href="https://github.com/Sheifc/Natural-Language-Processing">NLP</a></td></tr>
   <tr><td>💻 <b>The code</b></td><td><sub>42 Málaga</sub></td><td><a href="https://github.com/Sheifc/42cursus">42cursus</a> · <a href="https://github.com/Sheifc/minishell">minishell</a> · <a href="https://github.com/Sheifc/IRC">IRC</a> · <a href="https://github.com/Sheifc/Inception5.0">Inception</a> · <a href="https://github.com/Sheifc/42-C-piscine">C piscine ⭐</a> · <a href="https://github.com/Sheifc/AI-league-42-Malaga">AI League</a></td></tr>
   <tr><td>🛡️ <b>The threats</b></td><td><sub>2024–2026</sub></td><td>Android malware RE · <a href="https://github.com/Sheifc/Cybersecurity">Cybersecurity</a> · <a href="https://github.com/Sheifc/TryHackMe">TryHackMe</a> · <a href="https://github.com/Sheifc/Networking-Cisco">Networking</a></td></tr>
-  <tr><td>🤖 <b>The agents</b></td><td><sub>now</sub></td><td>Leading an R&amp;D team building agentic AI for cybersecurity</td></tr>
+  <tr><td>🤖 <b>The agents</b></td><td><sub>now</sub></td><td>Agentic AI for cybersecurity</td></tr>
 </table>
 
 ## 🧰 Toolbox
