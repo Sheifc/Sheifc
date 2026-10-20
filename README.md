@@ -1,7 +1,7 @@
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/journey-header-dark.svg">
-    <img src="assets/journey-header-light.svg" width="900" alt="I used to look for life under a microscope. Now I hunt malware. Clinical labs and NHS, data and AI, software, cybersecurity, AI agents and intel.">
+    <source media="(prefers-color-scheme: dark)" srcset="assets/timeline-header-dark.svg">
+    <img src="assets/timeline-header-light.svg" width="900" alt="I used to look for life under a microscope. Now I hunt malware. Clinical labs and NHS, data and AI, software, cybersecurity, AI agents and intel.">
   </picture>
 </p>
 
@@ -29,19 +29,19 @@
       A pipeline that automates the analysis of mobile applications, so suspicious apps go from sample to analyst-ready findings without manual steps.
       <br><br>
       <code>Android</code> <code>malware analysis</code> <code>automation</code>
-      <br><sub>🔒 private for now</sub>
     </td>
     <td width="50%" valign="top">
       <h3>🕵️ Dark-web forum monitoring</h3>
       Continuous monitoring of dark-web forums to turn underground chatter into actionable cyber threat intelligence.
       <br><br>
       <code>threat intel</code> <code>dark web</code> <code>OSINT</code>
-      <br><sub>🔒 private for now</sub>
     </td>
   </tr>
   <tr>
     <td colspan="2" valign="top">
+      <br>
       🎤 <a href="https://github.com/Sheifc/level-up-copilot-security"><b>level-up-copilot-security</b></a> · talk material on using AI coding assistants for <b>security compliance and best practices</b> (OWASP Top 10, custom prompts and instructions).
+      <br><br>
     </td>
   </tr>
 </table>
@@ -50,7 +50,7 @@
 
 ## 🧭 How I got here
 
-### 01 · The lab &nbsp;<sub>2010–2022</sub>
+### 01 · The lab &nbsp;<sub>2011–2022</sub>
 
 Ten years in clinical laboratories and **biomedical research**, ending as a senior clinical scientist in the **NHS** and as a laboratory director. That's where I learned that every sample has to be traceable and every result auditable.
 
