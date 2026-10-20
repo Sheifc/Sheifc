@@ -32,7 +32,7 @@
     <td width="50%" valign="top">
       <br>
       <h3>🕵️ <b>Dark-web forum monitoring</b></h3>
-      Underground chatter turned into threat intelligence.<br><br>
+      An app to monitor intelligence forums on the dark web.<br><br>
       <code>CTI</code> <code>OSINT</code>
       <br><br>
     </td>
